@@ -1,0 +1,1531 @@
+Year,Month,Country_of_Origin,Purpose,Primary_District,Accommodation_Type,Duration_Days,Group_Size,Age,Prior_Visits_SL,Season,Crisis_Period,Monthly_Arrivals
+2015,8,India,Business,Colombo,4-Star,4.0,4,36.0,0,Dry Season,0,150828
+2017,12,USA,Business,Gampaha,5-Star,2.0,1,32.0,0,Wet Season,0,235768
+2022,1,Other,Leisure,Galle,3-Star,12.0,3,18.0,0,Wet Season,0,72058
+2015,8,Other,Leisure,Mirissa,3-Star,8.0,3,20.0,0,Dry Season,0,154338
+2018,3,Maldives,Leisure,Colombo,3-Star,5.0,1,31.0,3,Wet Season,0,211874
+2016,6,USA,Leisure,Mirissa,3-Star,11.0,2,40.0,0,Dry Season,0,146798
+2022,12,Maldives,Transit,Colombo,4-Star,1.0,5,43.0,0,Wet Season,0,77791
+2015,2,India,Business,Gampaha,Budget Hotel,5.0,3,,1,Wet Season,0,184782
+2016,6,China,Shopping,Colombo,Hostel,6.0,4,34.0,2,Dry Season,0,139107
+2019,6,Other,Cultural,Sigiriya,3-Star,9.0,1,42.0,0,Dry Season,0,61956
+2016,4,India,Business,Gampaha,3-Star,4.0,1,50.0,0,Wet Season,0,148091
+2023,4,Germany,Eco-Tourism,Yala,Homestay,8.0,4,,0,Wet Season,0,120291
+2022,3,Indai,Leisure,Colombo,3-Star,12.0,2,38.0,0,Wet Season,0,64006
+2023,5,Japan,Leisure,Colombo,3-Star,9.0,2,34.0,0,Dry Season,0,88446
+2018,12,France,Eco-Tourism,Yala,3-Star,,2,38.0,0,Wet Season,0,246614
+2018,8,India,Medical,Colombo,Homestay,10.0,1,48.0,1,Dry Season,0,173264
+2018,8,United Kingdom,Adventure,Knuckles Range,Homestay,13.0,1,39.0,4,Dry Season,0,185114
+2023,9,France,Leisure,Bentota,4-Star,5.0,2,50.0,1,Dry Season,0,96903
+2017,2,India,Leisure,Colombo,Homestay,11.0,2,32.0,2,Wet Season,0,209521
+2016,3,India,Leisure,Colombo,4-Star,7.0,3,20.0,2,Wet Season,0,189572
+2016,8,China,Shopping,Colombo,Eco-Lodge,,1,49.0,0,Dry Season,0,177210
+2019,8,India,VFR,Gampaha,3-Star,12.0,3,,0,Dry Season,0,149054
+2017,3,India,Leisure,Galle,Eco-Lodge,5.0,6,18.0,1,Wet Season,0,182954
+2017,7,Germany,Leisure,Bentota,Budget Hotel,13.0,1,46.0,2,Dry Season,0,176318
+2023,1,Other,Adventure,Nuwara Eliya,5-Star,14.0,2,42.0,4,Wet Season,0,149329
+2018,1,Other,Adventure,Sigiriya,4-Star,17.0,1,48.0,1,Wet Season,0,237447
+2018,1,Japan,Leisure,Colombo,Homestay,5.0,4,31.0,0,Wet Season,0,253111
+2016,12,Australia,Leisure,Bentota,Eco-Lodge,5.0,2,47.0,2,Wet Season,0,228482
+2019,2,China,Group Tour,Galle,Homestay,4.0,2,40.0,0,Wet Season,0,171458
+2016,10,China,Group Tour,Kandy,3-Star,6.0,2,40.0,1,Wet Season,0,151819
+2023,7,France,Eco-Tourism,Yala,3-Star,8.0,5,29.0,2,Dry Season,0,127679
+2015,5,South Korea,Group Tour,Galle,5-Star,9.0,2,58.0,3,Dry Season,0,113121
+2016,8,Canada,Adventure,Ella,Boutique,14.0,2,50.0,1,Dry Season,0,160314
+2022,4,Other,Cultural,Sigiriya,Eco-Lodge,4.0,3,34.0,0,Wet Season,0,54968
+2023,2,India,Medical,Colombo,Budget Hotel,29.0,4,63.0,0,Wet Season,0,150078
+2015,5,France,Cultural,Kandy,Budget Hotel,9.0,5,57.0,0,Dry Season,0,117975
+2017,4,India,Business,Colombo,Boutique,3.0,1,27.0,0,Wet Season,0,164099
+2018,6,Other,Adventure,Nuwara Eliya,Hostel,8.0,1,33.0,0,Dry Season,0,160520
+2018,10,Italy,Cultural,Kandy,Eco-Lodge,7.0,4,48.0,0,Wet Season,0,161330
+2019,10,India,Medical,Colombo,Hostel,5.0,3,22.0,0,Wet Season,0,128883
+2018,7,Russia,Beach,Hikkaduwa,Boutique,6.0,1,34.0,0,Dry Season,0,187507
+2017,1,Other,Cultural,Kandy,Budget Hotel,7.0,1,58.0,1,Wet Season,0,221819
+2019,5,Australia,Leisure,Bentota,Boutique,5.0,3,34.0,0,Dry Season,1,43751
+2019,11,Australia,Leisure,Colombo,3-Star,11.0,2,32.0,1,Wet Season,0,148528
+2017,12,India,Leisure,Galle,4-Star,9.0,1,56.0,1,Wet Season,0,235922
+2022,7,India,Medical,Colombo,Budget Hotel,25.0,2,41.0,2,Dry Season,0,60933
+2023,11,Other,Leisure,Colombo,Hostel,9.0,2,36.0,2,Wet Season,0,126044
+2015,10,Other,Leisure,Bentota,5-Star,,2,,1,Wet Season,0,125696
+2016,10,Other,Adventure,Sigiriya,Hostel,11.0,3,19.0,0,Wet Season,0,135253
+2016,1,Other,Adventure,Nuwara Eliya,Budget Hotel,,3,41.0,1,Wet Season,0,223601
+2017,4,Switzerland,Adventure,Sigiriya,Boutique,7.0,5,,1,Wet Season,0,165866
+2016,11,Other,Adventure,Nuwara Eliya,5-Star,9.0,2,39.0,0,Wet Season,0,167021
+2019,12,India,Leisure,Colombo,3-Star,7.0,2,37.0,0,Wet Season,0,223753
+2022,4,India,VFR,Kandy,Homestay,10.0,2,45.0,2,Wet Season,0,47945
+2015,8,France,Cultural,Kandy,Homestay,7.0,1,47.0,0,Dry Season,0,143454
+2023,5,India,VFR,Gampaha,Eco-Lodge,,2,33.0,1,Dry Season,0,96261
+2023,10,Germany,Cultural,Sigiriya,Boutique,4.0,3,18.0,3,Wet Season,0,112261
+2019,3,Indai,Business,Colombo,Eco-Lodge,5.0,1,45.0,1,Wet Season,0,185879
+2023,9,Netherlands,Cultural,Kandy,Homestay,9.0,1,31.0,0,Dry Season,0,99264
+2017,1,Germany,Leisure,Galle,Budget Hotel,13.0,2,23.0,4,Wet Season,0,218907
+2019,1,Other,Adventure,Nuwara Eliya,3-Star,7.0,1,27.0,0,Wet Season,0,212247
+2016,11,China,Group Tour,Colombo,4-Star,7.0,2,27.0,1,Wet Season,0,179791
+2019,12,Other,Adventure,Nuwara Eliya,5-Star,15.0,2,40.0,0,Wet Season,0,229400
+2016,1,Maldives,Leisure,Mirissa,Hostel,,2,43.0,0,Wet Season,0,197010
+2019,7,Other,Cultural,Kandy,4-Star,7.0,1,40.0,0,Dry Season,0,165960
+2019,8,India,Medical,Colombo,Hostel,10.0,1,33.0,2,Dry Season,0,149213
+2023,7,Germany,Eco-Tourism,Knuckles Range,Boutique,7.0,1,48.0,0,Dry Season,0,114163
+2023,1,India,Business,Colombo,3-Star,3.0,3,36.0,1,Wet Season,0,163863
+2018,4,Maldives,Transit,Colombo,Hostel,1.0,6,34.0,0,Wet Season,0,166833
+2023,9,Australia,Leisure,Galle,5-Star,10.0,4,32.0,3,Dry Season,0,96981
+2019,11,Maldives,Leisure,Bentota,Eco-Lodge,11.0,2,51.0,4,Wet Season,0,168777
+2016,10,India,Business,Gampaha,5-Star,4.0,1,43.0,0,Wet Season,0,140200
+2016,12,Other,Cultural,Kandy,4-Star,9.0,2,23.0,1,Wet Season,0,222780
+2017,12,France,Cultural,Anuradhapura,Boutique,,2,59.0,0,Wet Season,0,247131
+2022,7,Australia,Leisure,Galle,Budget Hotel,6.0,4,34.0,1,Dry Season,0,59487
+2019,1,USA,Cultural,Kandy,Homestay,4.0,3,33.0,1,Wet Season,0,182131
+2017,6,Russia,Honeymoon,Bentota,4-Star,18.0,1,22.0,0,Dry Season,0,146590
+2017,8,India,VFR,Gampaha,3-Star,14.0,1,27.0,0,Dry Season,0,163259
+2016,8,Other,Cultural,Polonnaruwa,3-Star,4.0,1,39.0,1,Dry Season,0,165949
+2016,12,Indai,Leisure,Mirissa,3-Star,6.0,1,68.0,0,Wet Season,0,222790
+2018,4,Maldives,Business,Gampaha,4-Star,4.0,3,31.0,0,Wet Season,0,162624
+2023,5,Netherlands,Cultural,Kandy,5-Star,4.0,1,50.0,0,Dry Season,0,96480
+2015,6,United Kingdom,Leisure,Galle,4-Star,12.0,1,23.0,1,Dry Season,0,108092
+2015,2,India,Leisure,Colombo,Budget Hotel,10.0,1,46.0,0,Wet Season,0,173679
+2019,3,India,VFR,Gampaha,Hostel,16.0,1,34.0,0,Wet Season,0,172717
+2023,9,Russia,Beach,Mirissa,4-Star,5.0,4,23.0,0,Dry Season,0,95421
+2016,1,South Korea,Leisure,Colombo,5-Star,,4,48.0,0,Wet Season,0,214371
+2023,4,India,VFR,Kandy,Eco-Lodge,14.0,5,40.0,2,Wet Season,0,106142
+2018,7,Other,Adventure,Ella,Budget Hotel,16.0,1,34.0,0,Dry Season,0,202064
+2019,1,Other,Leisure,Colombo,Boutique,9.0,1,36.0,2,Wet Season,0,184667
+2017,8,Netherlands,Eco-Tourism,Yala,Homestay,5.0,1,36.0,2,Dry Season,0,165470
+2018,5,Other,Leisure,Colombo,4-Star,5.0,1,61.0,0,Dry Season,0,160343
+2019,5,Maldives,Business,Colombo,5-Star,4.0,1,34.0,0,Dry Season,1,41784
+2018,9,Maldives,Business,Gampaha,5-Star,2.0,2,45.0,0,Dry Season,0,152513
+2018,3,South Korea,Leisure,Mirissa,Homestay,7.0,5,28.0,1,Wet Season,0,235418
+2017,1,France,Cultural,Sigiriya,Eco-Lodge,9.0,3,44.0,0,Wet Season,0,211357
+2017,10,Italy,Cultural,Sigiriya,Eco-Lodge,8.0,3,30.0,0,Wet Season,0,139989
+2019,10,India,Business,Gampaha,Hostel,2.0,1,24.0,0,Wet Season,0,134984
+2016,2,Other,Leisure,Mirissa,3-Star,12.0,1,25.0,0,Wet Season,0,194543
+2023,10,India,Medical,Colombo,Eco-Lodge,22.0,2,34.0,1,Wet Season,0,107391
+2023,9,Other,Leisure,Bentota,Boutique,11.0,2,51.0,3,Dry Season,0,95894
+2022,11,China,Leisure,Colombo,Budget Hotel,,2,51.0,1,Wet Season,0,67603
+2019,7,India,Leisure,Bentota,Homestay,9.0,4,30.0,1,Dry Season,0,156461
+2017,6,India,Business,Colombo,5-Star,3.0,5,41.0,0,Dry Season,0,141209
+2018,4,Other,Leisure,Bentota,Hostel,8.0,1,26.0,0,Wet Season,0,184107
+2016,4,Other,Adventure,Ella,Budget Hotel,10.0,6,22.0,2,Wet Season,0,153341
+2019,12,Australia,Leisure,Galle,Budget Hotel,,6,32.0,0,Wet Season,0,229402
+2016,11,United Kingdom,Cultural,Anuradhapura,Homestay,5.0,2,20.0,0,Wet Season,0,174268
+2018,11,India,Business,Colombo,Eco-Lodge,,3,42.0,0,Wet Season,0,191577
+2015,7,China,Leisure,Mirissa,Budget Hotel,13.0,5,43.0,0,Dry Season,0,157442
+2023,11,United Kingdom,Cultural,Polonnaruwa,Eco-Lodge,6.0,4,26.0,1,Wet Season,0,123153
+2023,3,Italy,Leisure,Colombo,Eco-Lodge,8.0,1,32.0,1,Wet Season,0,142319
+2019,2,Italy,Cultural,Polonnaruwa,Hostel,7.0,5,18.0,1,Wet Season,0,194978
+2015,7,Germany,Eco-Tourism,Wilpattu,Hostel,9.0,2,42.0,0,Dry Season,0,153746
+2018,9,Italy,Honeymoon,Bentota,3-Star,19.0,2,52.0,4,Dry Season,0,152734
+2017,8,Other,Adventure,Sigiriya,Hostel,17.0,1,37.0,0,Dry Season,0,176054
+2019,9,Maldives,Transit,Colombo,5-Star,1.0,2,34.0,3,Dry Season,0,114292
+2018,7,Switzerland,Leisure,Colombo,3-Star,11.0,2,47.0,0,Dry Season,0,194958
+2016,2,India,VFR,Kandy,Eco-Lodge,17.0,1,18.0,1,Wet Season,0,215350
+2017,3,Germany,Cultural,Polonnaruwa,Budget Hotel,6.0,3,46.0,0,Wet Season,0,194884
+2015,12,Other,Adventure,Sigiriya,Boutique,16.0,3,47.0,0,Wet Season,0,203714
+2023,2,Maldives,Leisure,Galle,Boutique,13.0,2,23.0,0,Wet Season,0,157822
+2019,5,Other,Leisure,Galle,3-Star,5.0,2,,1,Dry Season,1,41294
+2018,4,Other,Adventure,Ella,Budget Hotel,,2,49.0,0,Wet Season,0,166946
+2023,11,United Kingdom,Honeymoon,Bentota,Eco-Lodge,9.0,1,18.0,0,Wet Season,0,127150
+2016,1,Japan,Leisure,Bentota,Eco-Lodge,8.0,5,29.0,3,Wet Season,0,218075
+2019,11,Japan,Eco-Tourism,Sinharaja,Homestay,8.0,3,26.0,1,Wet Season,0,153762
+2015,12,Germany,Cultural,Anuradhapura,Homestay,4.0,2,42.0,1,Wet Season,0,232719
+2016,2,Other,Cultural,Polonnaruwa,Homestay,5.0,2,42.0,0,Wet Season,0,209401
+2018,7,Other,Leisure,Colombo,Eco-Lodge,10.0,5,63.0,0,Dry Season,0,197077
+2018,12,USA,Cultural,Polonnaruwa,4-Star,6.0,3,33.0,0,Wet Season,0,253210
+2016,9,South Korea,Leisure,Mirissa,Eco-Lodge,9.0,3,30.0,4,Dry Season,0,136091
+2017,7,Indai,VFR,Colombo,Homestay,,2,38.0,1,Dry Season,0,174213
+2020,6,China,Leisure,Galle,Homestay,,3,18.0,2,Dry Season,1,688
+2017,1,United Kingdom,Leisure,Galle,4-Star,11.0,4,35.0,0,Wet Season,0,205488
+2019,11,United Kingdom,Adventure,Nuwara Eliya,4-Star,8.0,3,18.0,1,Wet Season,0,152737
+2015,3,India,Leisure,Mirissa,Hostel,7.0,2,,1,Wet Season,0,168877
+2021,1,Russia,Honeymoon,Bentota,4-Star,8.0,1,39.0,1,Wet Season,1,989
+2022,11,Other,Cultural,Kandy,Boutique,7.0,2,,1,Wet Season,0,60241
+2022,11,Other,Adventure,Sigiriya,Budget Hotel,8.0,1,,0,Wet Season,0,61145
+2017,1,Other,Adventure,Sigiriya,4-Star,8.0,5,22.0,0,Wet Season,0,219708
+2018,4,Australia,VFR,Colombo,Hostel,11.0,2,18.0,1,Wet Season,0,167007
+2019,8,Other,Adventure,Sigiriya,3-Star,7.0,2,40.0,0,Dry Season,0,164269
+2015,11,Russia,Leisure,Bentota,3-Star,6.0,2,,0,Wet Season,0,145997
+2018,12,India,VFR,Gampaha,Budget Hotel,,1,48.0,0,Wet Season,0,296843
+2023,9,Other,Adventure,Sigiriya,Eco-Lodge,9.0,2,23.0,2,Dry Season,0,102197
+2023,6,Other,Leisure,Colombo,Hostel,10.0,1,39.0,1,Dry Season,0,111008
+2015,8,Other,Cultural,Anuradhapura,5-Star,5.0,1,48.0,1,Dry Season,0,144948
+2015,5,Other,Cultural,Kandy,Eco-Lodge,9.0,4,29.0,1,Dry Season,0,113781
+2017,10,France,Leisure,Bentota,4-Star,5.0,4,39.0,0,Wet Season,0,143768
+2023,3,United Kingdom,Leisure,Colombo,Boutique,11.0,2,31.0,0,Wet Season,0,136708
+2019,3,United Kingdom,Leisure,Colombo,4-Star,7.0,1,27.0,0,Wet Season,0,170076
+2023,12,Maldives,Transit,Colombo,Homestay,2.0,2,35.0,0,Wet Season,0,185661
+2018,11,India,Business,Colombo,Homestay,,4,57.0,0,Wet Season,0,204541
+2017,1,United Kingdm,Adventure,Nuwara Eliya,Budget Hotel,16.0,6,34.0,0,Wet Season,0,222183
+2015,4,Other,Adventure,Knuckles Range,5-Star,10.0,2,26.0,4,Wet Season,0,144346
+2017,6,Germany,Adventure,Sigiriya,4-Star,8.0,1,37.0,3,Dry Season,0,140192
+2015,9,Australia,Adventure,Sigiriya,Budget Hotel,16.0,1,44.0,0,Dry Season,0,120377
+2017,5,France,Leisure,Galle,Homestay,9.0,2,46.0,1,Dry Season,0,141524
+2017,12,Germany,Cultural,Kandy,Hostel,6.0,1,56.0,0,Wet Season,0,248384
+2023,12,Italy,Honeymoon,Nuwara Eliya,Budget Hotel,10.0,1,25.0,1,Wet Season,0,168199
+2016,5,Russia,Honeymoon,Galle,Boutique,8.0,4,18.0,0,Dry Season,0,135243
+2015,12,India,Leisure,Colombo,5-Star,12.0,1,35.0,1,Wet Season,0,195750
+2020,5,United Kingdom,Cultural,Anuradhapura,Budget Hotel,6.0,4,39.0,2,Dry Season,1,608
+2016,4,Other,Leisure,Mirissa,5-Star,10.0,3,,0,Wet Season,0,148039
+2018,12,Germany,Leisure,Bentota,3-Star,8.0,2,18.0,2,Wet Season,0,281034
+2019,2,Australia,Leisure,Bentota,3-Star,6.0,1,26.0,0,Wet Season,0,187252
+2017,10,India,VFR,Colombo,5-Star,7.0,2,30.0,0,Wet Season,0,153585
+2017,7,India,Medical,Colombo,Boutique,,2,51.0,2,Dry Season,0,167683
+2016,12,Germany,Leisure,Mirissa,4-Star,5.0,2,18.0,0,Wet Season,0,245544
+2019,3,Other,Leisure,Colombo,Homestay,10.0,2,34.0,1,Wet Season,0,156745
+2017,12,India,VFR,Gampaha,Homestay,,1,33.0,3,Wet Season,0,229681
+2017,9,Russia,Beach,Bentota,Hostel,8.0,1,28.0,1,Dry Season,0,135826
+2016,12,Other,Leisure,Colombo,Eco-Lodge,11.0,2,39.0,0,Wet Season,0,223613
+2015,8,USA,Business,Gampaha,Hostel,4.0,1,55.0,0,Dry Season,0,131747
+2015,11,Russia,Leisure,Colombo,5-Star,,1,35.0,0,Wet Season,0,153119
+2016,1,Russia,Leisure,Galle,4-Star,8.0,2,31.0,1,Wet Season,0,205967
+2016,2,China,Group Tour,Colombo,5-Star,6.0,2,18.0,2,Wet Season,0,204624
+2019,12,Australia,Adventure,Ella,Homestay,15.0,1,38.0,0,Wet Season,0,203774
+2018,11,Other,Adventure,Sigiriya,Homestay,13.0,2,39.0,0,Wet Season,0,190024
+2023,1,Russia,Honeymoon,Mirissa,3-Star,8.0,2,34.0,4,Wet Season,0,166644
+2022,1,Other,Adventure,Nuwara Eliya,3-Star,10.0,1,49.0,2,Wet Season,0,81088
+2023,1,India,Medical,Colombo,Boutique,27.0,2,60.0,1,Wet Season,0,162021
+2015,4,United Kingdom,Leisure,Colombo,3-Star,11.0,5,47.0,0,Wet Season,0,130828
+2021,5,USA,Cultural,Anuradhapura,3-Star,8.0,1,40.0,0,Dry Season,1,633
+2016,8,China,Leisure,Galle,Hostel,,3,26.0,3,Dry Season,0,154592
+2022,12,Germany,Adventure,Nuwara Eliya,Boutique,,2,33.0,0,Wet Season,0,82509
+2016,10,Australia,Adventure,Ella,4-Star,10.0,2,37.0,3,Wet Season,0,143709
+2017,9,China,Leisure,Mirissa,Budget Hotel,11.0,2,24.0,1,Dry Season,0,140922
+2017,1,United Kingdom,Cultural,Anuradhapura,4-Star,,2,30.0,2,Wet Season,0,217576
+2018,9,Other,Leisure,Bentota,Hostel,7.0,4,40.0,3,Dry Season,0,155915
+2023,11,Other,Leisure,Colombo,Eco-Lodge,,3,35.0,4,Wet Season,0,131852
+2018,10,USA,Leisure,Bentota,5-Star,6.0,2,41.0,0,Wet Season,0,175249
+2019,1,Other,Adventure,Ella,5-Star,8.0,1,49.0,0,Wet Season,0,207206
+2017,11,Other,Adventure,Ella,Boutique,13.0,2,32.0,0,Wet Season,0,177296
+2016,2,Other,Adventure,Sigiriya,Budget Hotel,17.0,2,62.0,0,Wet Season,0,198752
+2018,11,Switzerland,Leisure,Bentota,5-Star,10.0,1,,2,Wet Season,0,216316
+2015,12,India,Medical,Colombo,Budget Hotel,25.0,3,29.0,0,Wet Season,0,202528
+2019,2,Other,Leisure,Mirissa,4-Star,7.0,1,66.0,1,Wet Season,0,196337
+2019,3,India,Business,Colombo,Boutique,5.0,1,19.0,0,Wet Season,0,176347
+2015,6,Other,Adventure,Sigiriya,Eco-Lodge,14.0,1,36.0,0,Dry Season,0,117951
+2017,2,India,Medical,Colombo,Budget Hotel,29.0,3,56.0,2,Wet Season,0,209966
+2019,1,USA,Leisure,Bentota,4-Star,8.0,3,,0,Wet Season,0,188231
+2021,3,India,Leisure,Bentota,Boutique,5.0,1,46.0,0,Wet Season,1,900
+2023,7,India,Medical,Colombo,Eco-Lodge,22.0,3,48.0,3,Dry Season,0,119326
+2020,6,China,Leisure,Galle,Homestay,,3,18.0,2,Dry Season,1,688
+2020,7,USA,Leisure,Mirissa,Budget Hotel,12.0,3,45.0,0,Dry Season,1,851
+2016,7,India,Leisure,Galle,Hostel,10.0,2,,3,Dry Season,0,169345
+2019,10,India,VFR,Gampaha,Eco-Lodge,13.0,4,38.0,3,Wet Season,0,138898
+2015,12,Other,Cultural,Kandy,Homestay,4.0,2,37.0,2,Wet Season,0,192727
+2015,1,Netherlands,Eco-Tourism,Yala,Budget Hotel,,2,48.0,0,Wet Season,0,196176
+2018,6,Other,Adventure,Knuckles Range,Eco-Lodge,14.0,3,40.0,0,Dry Season,0,160096
+2018,4,Australia,Adventure,Nuwara Eliya,Homestay,8.0,3,59.0,1,Wet Season,0,178529
+2018,10,Germany,Cultural,Anuradhapura,Budget Hotel,7.0,2,45.0,1,Wet Season,0,155848
+2018,7,India,Business,Gampaha,Homestay,2.0,6,,0,Dry Season,0,175746
+2018,4,India,Business,Colombo,4-Star,5.0,2,42.0,0,Wet Season,0,181835
+2019,5,South Korea,Group Tour,Sigiriya,4-Star,5.0,1,33.0,2,Dry Season,1,41222
+2017,4,USA,Cultural,Polonnaruwa,3-Star,6.0,3,29.0,1,Wet Season,0,157527
+2019,5,United Kingdom,Honeymoon,Galle,5-Star,10.0,3,23.0,1,Dry Season,1,42829
+2017,12,Indai,Business,Gampaha,Hostel,5.0,1,47.0,2,Wet Season,0,232294
+2018,7,India,Business,Gampaha,Hostel,3.0,3,27.0,0,Dry Season,0,193201
+2015,3,Other,Cultural,Polonnaruwa,Eco-Lodge,5.0,2,56.0,1,Wet Season,0,152504
+2016,2,Other,Adventure,Nuwara Eliya,Eco-Lodge,15.0,6,18.0,1,Wet Season,0,196330
+2018,11,India,Medical,Colombo,Boutique,7.0,1,38.0,3,Wet Season,0,191553
+2015,1,France,Eco-Tourism,Wilpattu,3-Star,11.0,2,,0,Wet Season,0,182624
+2017,1,Germany,Cultural,Kandy,Hostel,7.0,1,18.0,0,Wet Season,0,214600
+2015,2,Japan,Leisure,Bentota,Hostel,10.0,6,25.0,0,Wet Season,0,185568
+2023,11,Switzerland,Eco-Tourism,Sinharaja,Eco-Lodge,7.0,1,49.0,1,Wet Season,0,132957
+2019,9,Russia,Honeymoon,Galle,4-Star,11.0,1,49.0,1,Dry Season,0,123703
+2019,12,France,Eco-Tourism,Yala,Homestay,6.0,2,31.0,2,Wet Season,0,235773
+2023,11,India,Leisure,Colombo,4-Star,8.0,2,21.0,2,Wet Season,0,126485
+2018,12,Canada,Cultural,Anuradhapura,3-Star,5.0,2,35.0,0,Wet Season,0,269229
+2015,11,Maldives,Transit,Colombo,Budget Hotel,1.0,3,28.0,1,Wet Season,0,150960
+2016,2,Italy,Cultural,Anuradhapura,Budget Hotel,4.0,2,61.0,1,Wet Season,0,201717
+2015,11,Italy,Honeymoon,Galle,Homestay,17.0,1,25.0,0,Wet Season,0,146061
+2015,3,USA,Cultural,Kandy,3-Star,8.0,4,38.0,0,Wet Season,0,146609
+2018,11,Other,Leisure,Bentota,3-Star,10.0,3,47.0,0,Wet Season,0,187873
+2018,3,United Kingdom,Leisure,Colombo,Hostel,,1,32.0,0,Wet Season,0,228498
+2015,1,South Korea,Cultural,Polonnaruwa,Eco-Lodge,7.0,3,32.0,0,Wet Season,0,185597
+2018,5,Other,Adventure,Sigiriya,5-Star,12.0,2,52.0,2,Dry Season,0,151440
+2016,7,India,Leisure,Mirissa,5-Star,7.0,2,47.0,1,Dry Season,0,169257
+2023,1,Other,Cultural,Sigiriya,Budget Hotel,6.0,2,32.0,0,Wet Season,0,164431
+2019,10,China,Leisure,Mirissa,3-Star,10.0,2,37.0,2,Wet Season,0,140494
+2016,10,United Kingdom,Adventure,Ella,Eco-Lodge,14.0,1,28.0,0,Wet Season,0,146325
+2015,5,United Kingdom,Adventure,Knuckles Range,3-Star,12.0,2,18.0,1,Dry Season,0,121176
+2020,2,India,Business,Gampaha,Homestay,2.0,1,39.0,2,Wet Season,0,47247
+2015,8,India,Leisure,Mirissa,Boutique,5.0,1,54.0,0,Dry Season,0,134797
+2018,3,Maldives,Leisure,Galle,Hostel,10.0,1,34.0,0,Wet Season,0,210171
+2017,7,China,Shopping,Colombo,3-Star,2.0,2,44.0,1,Dry Season,0,162416
+2015,5,India,Leisure,Mirissa,Boutique,,2,38.0,1,Dry Season,0,107681
+2016,1,Netherlands,Eco-Tourism,Yala,Homestay,13.0,1,52.0,2,Wet Season,0,224172
+2018,7,Other,Leisure,Mirissa,Eco-Lodge,5.0,2,32.0,2,Dry Season,0,197006
+2015,2,Australia,Leisure,Mirissa,3-Star,11.0,2,39.0,0,Wet Season,0,191628
+2015,5,China,Group Tour,Galle,Homestay,6.0,1,56.0,0,Dry Season,0,114025
+2023,7,South Korea,Cultural,Anuradhapura,3-Star,8.0,2,51.0,0,Dry Season,0,120598
+2017,7,Canada,Cultural,Polonnaruwa,Homestay,9.0,2,30.0,0,Dry Season,0,177693
+2016,6,Maldives,Business,Gampaha,3-Star,5.0,3,18.0,0,Dry Season,0,133775
+2018,7,Switzerland,Eco-Tourism,Yala,Homestay,9.0,1,32.0,4,Dry Season,0,199100
+2015,3,Germany,Cultural,Sigiriya,4-Star,7.0,2,38.0,0,Wet Season,0,172786
+2016,5,Canada,Leisure,Colombo,Budget Hotel,7.0,1,44.0,1,Dry Season,0,132281
+2018,6,Australia,VFR,Gampaha,4-Star,16.0,1,46.0,0,Dry Season,0,161107
+2018,9,Maldives,Business,Colombo,Hostel,2.0,1,47.0,0,Dry Season,0,156697
+2023,2,Other,Adventure,Knuckles Range,Homestay,17.0,3,38.0,0,Wet Season,0,148143
+2016,11,India,Business,Gampaha,Boutique,3.0,4,18.0,1,Wet Season,0,173012
+2018,5,India,VFR,Gampaha,3-Star,12.0,1,35.0,0,Dry Season,0,145080
+2023,2,Canada,Adventure,Knuckles Range,Eco-Lodge,7.0,5,24.0,0,Wet Season,0,134888
+2019,11,India,Medical,Colombo,Budget Hotel,8.0,3,32.0,1,Wet Season,0,163670
+2019,10,China,Group Tour,Sigiriya,Boutique,8.0,2,44.0,4,Wet Season,0,125763
+2017,10,Switzerland,Leisure,Galle,Hostel,7.0,3,30.0,0,Wet Season,0,158953
+2019,1,Maldives,Transit,Colombo,5-Star,1.0,5,31.0,0,Wet Season,0,192545
+2018,5,United Kingdom,Leisure,Mirissa,Eco-Lodge,6.0,3,40.0,0,Dry Season,0,133343
+2015,11,China,Shopping,Gampaha,Boutique,3.0,2,35.0,2,Wet Season,0,154082
+2015,3,Maldives,Transit,Colombo,Homestay,1.0,1,49.0,0,Wet Season,0,179367
+2017,5,United Kingdom,Honeymoon,Nuwara Eliya,5-Star,11.0,4,40.0,0,Dry Season,0,134159
+2019,11,China,Group Tour,Sigiriya,Hostel,7.0,5,36.0,0,Wet Season,0,170145
+2020,1,South Korea,Group Tour,Kandy,Hostel,9.0,2,18.0,0,Wet Season,0,60339
+2016,12,India,Leisure,Galle,Eco-Lodge,11.0,1,47.0,0,Wet Season,0,237957
+2017,8,Japan,Leisure,Mirissa,Homestay,11.0,2,34.0,0,Dry Season,0,159031
+2016,1,Other,Adventure,Knuckles Range,Eco-Lodge,11.0,1,41.0,2,Wet Season,0,213096
+2023,12,India,Business,Gampaha,3-Star,5.0,3,60.0,2,Wet Season,0,152418
+2018,12,USA,Business,Gampaha,Homestay,3.0,1,32.0,0,Wet Season,0,261115
+2022,4,India,Business,Colombo,Eco-Lodge,2.0,1,36.0,0,Wet Season,0,58070
+2017,12,Other,Adventure,Knuckles Range,Hostel,9.0,3,47.0,0,Wet Season,0,241809
+2022,12,United Kingdom,Cultural,Polonnaruwa,3-Star,4.0,1,43.0,1,Wet Season,0,81742
+2015,6,India,Leisure,Galle,Homestay,6.0,1,31.0,0,Dry Season,0,128377
+2019,3,Germany,Cultural,Sigiriya,Budget Hotel,7.0,1,47.0,0,Wet Season,0,180589
+2015,1,Netherlands,Cultural,Sigiriya,3-Star,4.0,1,28.0,0,Wet Season,0,201092
+2016,1,Netherlands,Leisure,Colombo,Budget Hotel,9.0,4,42.0,0,Wet Season,0,218980
+2018,12,China,Group Tour,Kandy,3-Star,9.0,1,43.0,2,Wet Season,0,270830
+2019,3,Japan,Eco-Tourism,Yala,4-Star,5.0,4,62.0,0,Wet Season,0,169138
+2023,11,India,Leisure,Colombo,5-Star,5.0,2,,0,Wet Season,0,119460
+2017,11,Other,Adventure,Ella,Homestay,9.0,1,34.0,0,Wet Season,0,188355
+2015,1,India,VFR,Colombo,4-Star,19.0,1,28.0,0,Wet Season,0,186111
+2019,2,USA,Leisure,Bentota,Budget Hotel,7.0,1,52.0,0,Wet Season,0,182974
+2019,12,India,Leisure,Galle,5-Star,7.0,5,39.0,1,Wet Season,0,223475
+2015,7,Australia,Leisure,Colombo,3-Star,9.0,6,24.0,0,Dry Season,0,133530
+2018,3,United Kingdom,Honeymoon,Mirissa,Hostel,16.0,3,34.0,0,Wet Season,0,227890
+2023,5,Other,Cultural,Sigiriya,Homestay,9.0,1,35.0,0,Dry Season,0,90910
+2019,3,Japan,Leisure,Mirissa,Budget Hotel,5.0,1,42.0,0,Wet Season,0,181060
+2015,5,India,Medical,Colombo,Eco-Lodge,13.0,2,48.0,0,Dry Season,0,131075
+2016,9,United Kingdom,Adventure,Ella,Hostel,16.0,2,,0,Dry Season,0,133770
+2015,12,India,VFR,Kandy,Boutique,10.0,4,18.0,0,Wet Season,0,222382
+2018,3,India,VFR,Kandy,Boutique,15.0,3,38.0,2,Wet Season,0,232470
+2018,8,France,Leisure,Galle,Hostel,9.0,2,43.0,0,Dry Season,0,182346
+2023,7,Australia,Leisure,Mirissa,4-Star,9.0,2,67.0,4,Dry Season,0,118430
+2023,3,United Kingdom,Leisure,Colombo,Boutique,11.0,2,31.0,0,Wet Season,0,136708
+2015,1,India,Leisure,Galle,Homestay,,3,18.0,0,Wet Season,0,187084
+2017,12,Russia,Beach,Arugam Bay,Eco-Lodge,10.0,1,67.0,1,Wet Season,0,239734
+2016,8,United Kingdom,Honeymoon,Galle,Homestay,10.0,3,55.0,0,Dry Season,0,168490
+2022,4,Other,Adventure,Sigiriya,Homestay,14.0,1,53.0,0,Wet Season,0,60677
+2018,1,Germany,Eco-Tourism,Yala,5-Star,6.0,1,30.0,1,Wet Season,0,254363
+2019,12,Germany,Adventure,Sigiriya,4-Star,17.0,1,36.0,4,Wet Season,0,217654
+2016,8,Japan,Leisure,Mirissa,Homestay,11.0,2,37.0,2,Dry Season,0,170626
+2015,1,Other,Leisure,Colombo,5-Star,10.0,2,45.0,0,Wet Season,0,176134
+2016,5,United Kingdom,Cultural,Polonnaruwa,4-Star,,3,44.0,0,Dry Season,0,121616
+2017,12,Canada,Adventure,Nuwara Eliya,Boutique,17.0,3,33.0,0,Wet Season,0,268030
+2018,12,Other,Adventure,Nuwara Eliya,Eco-Lodge,11.0,2,20.0,0,Wet Season,0,262729
+2021,5,United Kingdom,Cultural,Anuradhapura,Budget Hotel,5.0,2,18.0,0,Dry Season,1,576
+2017,8,Other,Leisure,Mirissa,Eco-Lodge,7.0,2,47.0,1,Dry Season,0,181895
+2017,9,India,Medical,Colombo,4-Star,14.0,2,42.0,2,Dry Season,0,131508
+2021,3,Russia,Beach,Arugam Bay,5-Star,7.0,2,35.0,2,Wet Season,1,914
+2015,8,Switzerland,Adventure,Ella,Homestay,10.0,2,56.0,0,Dry Season,0,138393
+2023,5,Australia,VFR,Kandy,3-Star,19.0,3,54.0,2,Dry Season,0,98437
+2016,4,Germany,Eco-Tourism,Wilpattu,3-Star,,4,39.0,0,Wet Season,0,161302
+2017,11,Other,Leisure,Galle,Boutique,8.0,2,21.0,2,Wet Season,0,176336
+2023,3,Indai,VFR,Gampaha,Homestay,10.0,4,36.0,0,Wet Season,0,136630
+2018,4,Australia,Adventure,Sigiriya,Boutique,7.0,2,40.0,0,Wet Season,0,186387
+2023,12,Germany,Leisure,Galle,Eco-Lodge,10.0,5,38.0,0,Wet Season,0,175802
+2019,5,China,Leisure,Galle,3-Star,10.0,5,32.0,0,Dry Season,1,39676
+2019,3,India,Leisure,Bentota,4-Star,5.0,2,39.0,0,Wet Season,0,175796
+2016,3,Canada,Adventure,Sigiriya,Boutique,17.0,2,45.0,2,Wet Season,0,177755
+2016,3,United Kingdom,Adventure,Knuckles Range,Hostel,16.0,2,57.0,0,Wet Season,0,186735
+2020,1,Germany,Eco-Tourism,Yala,Budget Hotel,9.0,2,27.0,1,Wet Season,0,56833
+2019,1,Russia,Honeymoon,Nuwara Eliya,5-Star,16.0,2,,0,Wet Season,0,205980
+2022,5,Other,Adventure,Ella,Budget Hotel,9.0,1,26.0,1,Dry Season,0,46773
+2019,12,India,Leisure,Mirissa,Boutique,6.0,6,42.0,0,Wet Season,0,218244
+2017,12,United Kingdom,Adventure,Nuwara Eliya,3-Star,10.0,5,47.0,4,Wet Season,0,249609
+2018,8,China,Shopping,Colombo,Hostel,4.0,2,21.0,2,Dry Season,0,187545
+2018,11,Japan,Eco-Tourism,Wilpattu,Hostel,10.0,1,27.0,1,Wet Season,0,203448
+2023,12,Russia,Honeymoon,Mirissa,4-Star,13.0,2,30.0,0,Wet Season,0,173590
+2022,4,Japan,Cultural,Anuradhapura,4-Star,4.0,2,45.0,0,Wet Season,0,48383
+2015,9,United Kingdom,Cultural,Anuradhapura,Budget Hotel,7.0,2,33.0,1,Dry Season,0,114121
+2022,10,Other,Adventure,Nuwara Eliya,Eco-Lodge,14.0,1,41.0,1,Wet Season,0,52037
+2018,3,Australia,Adventure,Sigiriya,Hostel,14.0,1,48.0,0,Wet Season,0,208078
+2018,9,Australia,VFR,Colombo,Homestay,11.0,2,,1,Dry Season,0,152861
+2015,1,France,Eco-Tourism,Knuckles Range,Hostel,8.0,4,19.0,0,Wet Season,0,185983
+2019,12,Maldives,Business,Colombo,Boutique,3.0,6,31.0,0,Wet Season,0,188165
+2016,10,France,Eco-Tourism,Sinharaja,Boutique,5.0,2,26.0,1,Wet Season,0,141957
+2017,5,China,Group Tour,Kandy,Eco-Lodge,6.0,1,50.0,1,Dry Season,0,128910
+2017,4,Maldives,Business,Gampaha,Hostel,3.0,1,,0,Wet Season,0,157714
+2022,11,Other,Adventure,Sigiriya,Budget Hotel,8.0,1,,0,Wet Season,0,61145
+2017,7,Other,Leisure,Colombo,5-Star,10.0,1,39.0,0,Dry Season,0,178482
+2019,12,Canada,Adventure,Sigiriya,Boutique,16.0,4,52.0,0,Wet Season,0,201590
+2019,1,United Kingdom,Leisure,Galle,Homestay,8.0,2,35.0,0,Wet Season,0,180163
+2023,9,Australia,Adventure,Sigiriya,4-Star,16.0,1,33.0,1,Dry Season,0,98008
+2016,5,China,Leisure,Mirissa,4-Star,8.0,1,38.0,0,Dry Season,0,133823
+2017,11,Other,Cultural,Anuradhapura,Hostel,9.0,2,24.0,0,Wet Season,0,188205
+2017,8,Other,Cultural,Sigiriya,4-Star,8.0,2,21.0,2,Dry Season,0,157507
+2020,1,United Kingdom,Adventure,Knuckles Range,3-Star,10.0,1,25.0,0,Wet Season,0,50331
+2016,4,Maldives,Transit,Colombo,4-Star,2.0,1,40.0,0,Wet Season,0,166983
+2018,1,Other,Adventure,Ella,Budget Hotel,15.0,3,43.0,4,Wet Season,0,258050
+2019,1,Switzerland,Eco-Tourism,Yala,Homestay,6.0,5,20.0,0,Wet Season,0,189823
+2018,8,Germany,Adventure,Knuckles Range,5-Star,15.0,1,40.0,0,Dry Season,0,183577
+2023,12,Australia,Leisure,Galle,Hostel,7.0,3,,0,Wet Season,0,166335
+2016,10,China,Shopping,Gampaha,5-Star,3.0,2,,0,Wet Season,0,141793
+2018,6,Maldives,Business,Gampaha,Eco-Lodge,5.0,2,32.0,0,Dry Season,0,158539
+2017,1,India,Medical,Colombo,3-Star,15.0,1,43.0,0,Wet Season,0,229773
+2017,10,China,Group Tour,Galle,Eco-Lodge,5.0,4,36.0,0,Wet Season,0,155729
+2016,12,India,Medical,Colombo,Eco-Lodge,24.0,6,45.0,0,Wet Season,0,234107
+2019,10,United Kingdom,Leisure,Galle,3-Star,11.0,2,54.0,0,Wet Season,0,143284
+2018,8,China,Leisure,Galle,4-Star,8.0,5,35.0,0,Dry Season,0,177292
+2018,2,China,Group Tour,Sigiriya,Boutique,7.0,2,41.0,1,Wet Season,0,238997
+2016,5,Germny,Cultural,Sigiriya,Hostel,9.0,1,24.0,1,Dry Season,0,134659
+2015,3,China,Group Tour,Colombo,5-Star,7.0,2,27.0,1,Wet Season,0,173414
+2017,11,India,Medical,Colombo,5-Star,25.0,1,40.0,0,Wet Season,0,173832
+2019,9,Germany,Leisure,Galle,5-Star,7.0,4,41.0,3,Dry Season,0,125990
+2015,3,Indai,VFR,Gampaha,Eco-Lodge,12.0,1,41.0,1,Wet Season,0,173608
+2016,1,India,Medical,Colombo,Hostel,29.0,1,45.0,0,Wet Season,0,229454
+2017,5,India,Leisure,Colombo,4-Star,8.0,2,37.0,1,Dry Season,0,134859
+2019,4,China,Shopping,Colombo,Eco-Lodge,6.0,2,34.0,0,Wet Season,1,35841
+2019,3,China,Shopping,Colombo,Eco-Lodge,5.0,3,34.0,2,Wet Season,0,180839
+2016,3,Other,Adventure,Sigiriya,Hostel,,3,25.0,0,Wet Season,0,185818
+2015,7,Maldives,Business,Colombo,3-Star,4.0,2,24.0,1,Dry Season,0,139839
+2015,3,India,Business,Gampaha,3-Star,5.0,1,31.0,1,Wet Season,0,166004
+2019,5,Russia,Honeymoon,Mirissa,4-Star,17.0,3,18.0,0,Dry Season,1,42197
+2018,4,Germany,Eco-Tourism,Sinharaja,Budget Hotel,11.0,6,46.0,1,Wet Season,0,192070
+2018,1,Other,Cultural,Polonnaruwa,Eco-Lodge,4.0,1,56.0,1,Wet Season,0,249178
+2016,8,Other,Cultural,Sigiriya,Boutique,8.0,5,22.0,2,Dry Season,0,178722
+2018,1,Canada,Cultural,Polonnaruwa,Eco-Lodge,4.0,2,28.0,2,Wet Season,0,253420
+2015,6,Japan,Eco-Tourism,Sinharaja,5-Star,7.0,2,48.0,2,Dry Season,0,123750
+2023,11,United Kingdom,Leisure,Colombo,5-Star,5.0,2,53.0,0,Wet Season,0,118879
+2017,2,USA,Business,Colombo,Eco-Lodge,4.0,5,39.0,0,Wet Season,0,200767
+2015,10,Frnace,Cultural,Kandy,Homestay,9.0,1,30.0,0,Wet Season,0,129589
+2016,3,Maldives,Leisure,Mirissa,Budget Hotel,7.0,1,22.0,0,Wet Season,0,176909
+2020,10,India,Business,Colombo,5-Star,,1,18.0,2,Wet Season,1,1934
+2016,11,United Kingdom,Cultural,Anuradhapura,Homestay,5.0,2,20.0,0,Wet Season,0,174268
+2015,1,United Kingdom,Honeymoon,Galle,4-Star,14.0,4,49.0,0,Wet Season,0,197073
+2018,5,USA,Leisure,Colombo,Homestay,13.0,3,52.0,0,Dry Season,0,148925
+2017,2,China,Leisure,Bentota,Boutique,11.0,4,22.0,0,Wet Season,0,217446
+2023,2,Germany,Cultural,Anuradhapura,3-Star,,1,24.0,4,Wet Season,0,147900
+2023,8,South Korea,Cultural,Anuradhapura,Hostel,6.0,6,41.0,0,Dry Season,0,120674
+2016,6,Canada,Adventure,Ella,3-Star,8.0,2,45.0,1,Dry Season,0,142232
+2023,10,Other,Leisure,Galle,Hostel,5.0,1,47.0,0,Wet Season,0,98249
+2017,1,Germany,Cultural,Kandy,Hostel,7.0,1,18.0,0,Wet Season,0,214600
+2017,3,Other,Cultural,Kandy,3-Star,,5,50.0,1,Wet Season,0,187889
+2016,9,India,Medical,Colombo,Budget Hotel,18.0,3,39.0,0,Dry Season,0,127057
+2019,3,Other,Leisure,Bentota,Budget Hotel,6.0,1,35.0,2,Wet Season,0,191963
+2015,8,France,Cultural,Polonnaruwa,Hostel,5.0,5,32.0,0,Dry Season,0,130612
+2023,6,Germany,Cultural,Sigiriya,Eco-Lodge,,3,49.0,0,Dry Season,0,96565
+2016,12,Other,Adventure,Ella,5-Star,11.0,5,18.0,1,Wet Season,0,239766
+2023,2,United Kingdom,Adventure,Sigiriya,3-Star,11.0,2,35.0,0,Wet Season,0,156099
+2019,1,Other,Leisure,Bentota,3-Star,12.0,4,,1,Wet Season,0,203016
+2018,6,Other,Leisure,Colombo,5-Star,5.0,3,51.0,3,Dry Season,0,168413
+2022,12,United Kingdom,Leisure,Mirissa,4-Star,11.0,2,34.0,4,Wet Season,0,91119
+2017,2,Italy,Honeymoon,Nuwara Eliya,3-Star,17.0,2,37.0,0,Wet Season,0,212124
+2023,7,Canada,Cultural,Sigiriya,Boutique,9.0,2,32.0,0,Dry Season,0,122609
+2016,11,Australia,Leisure,Galle,Boutique,11.0,1,47.0,0,Wet Season,0,181169
+2022,6,Japan,Cultural,Polonnaruwa,Boutique,,1,54.0,0,Dry Season,0,45583
+2020,10,United Kingdom,Cultural,Sigiriya,Boutique,5.0,6,,1,Wet Season,1,1603
+2022,2,Other,Cultural,Kandy,Eco-Lodge,5.0,2,30.0,1,Wet Season,0,75561
+2018,12,France,Cultural,Polonnaruwa,Eco-Lodge,9.0,3,51.0,0,Wet Season,0,267294
+2017,8,United Kingdom,Adventure,Nuwara Eliya,5-Star,8.0,3,,2,Dry Season,0,165155
+2016,7,United Kingdom,Cultural,Polonnaruwa,Homestay,8.0,2,52.0,0,Dry Season,0,172681
+2018,11,Netherlands,Leisure,Mirissa,5-Star,10.0,1,37.0,0,Wet Season,0,187164
+2015,12,Canada,Cultural,Anuradhapura,4-Star,8.0,1,33.0,0,Wet Season,0,232259
+2018,2,United Kingdom,Adventure,Knuckles Range,Boutique,,1,57.0,0,Wet Season,0,220495
+2016,2,Other,Cultural,Anuradhapura,Eco-Lodge,4.0,2,37.0,0,Wet Season,0,196785
+2015,3,Other,Cultural,Anuradhapura,Boutique,8.0,1,37.0,2,Wet Season,0,176454
+2019,2,United Kingdom,Honeymoon,Galle,Eco-Lodge,17.0,1,22.0,0,Wet Season,0,179869
+2018,6,China,Shopping,Gampaha,4-Star,3.0,3,44.0,0,Dry Season,0,158221
+2019,1,France,Eco-Tourism,Yala,5-Star,11.0,1,42.0,0,Wet Season,0,197995
+2016,4,Germany,Eco-Tourism,Yala,5-Star,5.0,3,52.0,2,Wet Season,0,151350
+2019,2,Italy,Leisure,Colombo,Homestay,7.0,3,46.0,0,Wet Season,0,188610
+2016,5,United Kingdom,Leisure,Bentota,3-Star,9.0,1,23.0,1,Dry Season,0,133505
+2017,8,United Kingdom,Leisure,Bentota,Hostel,5.0,3,54.0,0,Dry Season,0,174643
+2016,11,United Kingdom,Leisure,Colombo,5-Star,7.0,1,41.0,1,Wet Season,0,177591
+2017,4,Other,Adventure,Knuckles Range,4-Star,15.0,2,24.0,0,Wet Season,0,147910
+2015,7,Other,Cultural,Polonnaruwa,3-Star,7.0,2,32.0,1,Dry Season,0,161181
+2021,5,USA,Business,Colombo,3-Star,2.0,2,35.0,0,Dry Season,1,675
+2016,4,Switzerland,Leisure,Colombo,Budget Hotel,,3,,1,Wet Season,0,142700
+2016,3,China,Leisure,Bentota,Boutique,6.0,4,,1,Wet Season,0,191004
+2015,5,Germany,Adventure,Knuckles Range,Budget Hotel,7.0,1,35.0,0,Dry Season,0,101471
+2016,8,India,Leisure,Colombo,4-Star,8.0,6,35.0,0,Dry Season,0,156735
+2023,1,France,Leisure,Colombo,Hostel,11.0,2,66.0,0,Wet Season,0,159078
+2019,11,India,Leisure,Colombo,4-Star,5.0,1,57.0,1,Wet Season,0,175437
+2017,3,Australia,VFR,Colombo,Hostel,14.0,2,45.0,3,Wet Season,0,195583
+2017,8,Japan,Eco-Tourism,Yala,Eco-Lodge,10.0,2,36.0,0,Dry Season,0,162024
+2019,6,Australia,Adventure,Knuckles Range,3-Star,11.0,2,23.0,0,Dry Season,0,65728
+2019,12,Other,Adventure,Nuwara Eliya,Homestay,14.0,3,36.0,0,Wet Season,0,222855
+2015,12,India,Medical,Colombo,Eco-Lodge,21.0,1,49.0,1,Wet Season,0,214382
+2019,1,United Kingdom,Cultural,Polonnaruwa,Eco-Lodge,8.0,2,36.0,2,Wet Season,0,208404
+2018,3,Indai,Medical,Colombo,4-Star,17.0,1,51.0,1,Wet Season,0,208509
+2018,10,China,Shopping,Gampaha,Hostel,2.0,2,39.0,1,Wet Season,0,162397
+2017,2,Other,Cultural,Kandy,Hostel,9.0,1,38.0,0,Wet Season,0,213719
+2018,9,Germany,Eco-Tourism,Wilpattu,3-Star,12.0,2,51.0,1,Dry Season,0,135847
+2015,8,Maldives,Leisure,Colombo,5-Star,7.0,4,45.0,0,Dry Season,0,146928
+2016,5,United Kingdom,Cultural,Polonnaruwa,Boutique,6.0,2,31.0,2,Dry Season,0,134309
+2017,5,Other,Adventure,Ella,5-Star,16.0,1,35.0,0,Dry Season,0,131120
+2018,5,Other,Adventure,Ella,Homestay,13.0,2,41.0,0,Dry Season,0,144742
+2018,2,Maldives,Business,Gampaha,Homestay,2.0,2,19.0,4,Wet Season,0,231467
+2016,8,USA,Business,Gampaha,Eco-Lodge,4.0,3,48.0,1,Dry Season,0,166614
+2022,7,Italy,Leisure,Bentota,Homestay,10.0,2,18.0,0,Dry Season,0,59692
+2023,3,Other,Cultural,Anuradhapura,Eco-Lodge,7.0,2,19.0,0,Wet Season,0,137309
+2016,8,Canada,Adventure,Knuckles Range,Boutique,8.0,2,37.0,0,Dry Season,0,176882
+2018,12,India,Business,Gampaha,Homestay,,3,49.0,0,Wet Season,0,283163
+2019,2,Other,Adventure,Sigiriya,Eco-Lodge,11.0,3,52.0,0,Wet Season,0,173701
+2015,12,United Kingdom,Honeymoon,Galle,4-Star,19.0,1,37.0,0,Wet Season,0,202665
+2022,12,India,Medical,Colombo,Hostel,22.0,3,24.0,1,Wet Season,0,86085
+2019,12,USA,Cultural,Polonnaruwa,4-Star,4.0,1,36.0,0,Wet Season,0,222119
+2023,8,Other,Cultural,Polonnaruwa,Homestay,7.0,1,69.0,1,Dry Season,0,126034
+2023,1,Other,Cultural,Polonnaruwa,Eco-Lodge,6.0,4,42.0,1,Wet Season,0,167339
+2018,5,Canada,Cultural,Anuradhapura,4-Star,4.0,1,18.0,0,Dry Season,0,151619
+2018,12,India,VFR,Gampaha,3-Star,6.0,4,49.0,1,Wet Season,0,270866
+2018,4,United Kingdom,Adventure,Ella,Eco-Lodge,12.0,1,30.0,1,Wet Season,0,177816
+2022,11,India,Business,Colombo,5-Star,,1,39.0,0,Wet Season,0,54773
+2017,10,Canada,Adventure,Sigiriya,5-Star,9.0,1,41.0,1,Wet Season,0,142905
+2016,12,India,VFR,Kandy,Hostel,,1,29.0,4,Wet Season,0,217313
+2015,11,France,Eco-Tourism,Wilpattu,Homestay,,6,34.0,2,Wet Season,0,145496
+2017,6,Indai,Business,Gampaha,Eco-Lodge,,3,51.0,0,Dry Season,0,153346
+2015,6,China,Leisure,Galle,Boutique,5.0,3,44.0,0,Dry Season,0,111487
+2017,6,United Kingdom,Cultural,Sigiriya,Budget Hotel,7.0,1,,0,Dry Season,0,145351
+2023,12,Maldives,Business,Gampaha,5-Star,2.0,2,26.0,1,Wet Season,0,166595
+2022,12,Other,Leisure,Galle,4-Star,12.0,1,51.0,0,Wet Season,0,80990
+2022,4,Maldives,Business,Gampaha,Eco-Lodge,3.0,1,28.0,0,Wet Season,0,51880
+2016,4,Germany,Leisure,Bentota,Homestay,13.0,2,47.0,0,Wet Season,0,160158
+2016,4,Other,Adventure,Ella,Budget Hotel,10.0,6,22.0,2,Wet Season,0,153341
+2016,1,Italy,Honeymoon,Nuwara Eliya,3-Star,13.0,1,31.0,0,Wet Season,0,210912
+2019,11,USA,Cultural,Anuradhapura,4-Star,9.0,1,18.0,0,Wet Season,0,171596
+2018,4,India,Leisure,Colombo,Budget Hotel,13.0,4,42.0,1,Wet Season,0,170744
+2019,1,China,Leisure,Mirissa,5-Star,6.0,2,37.0,0,Wet Season,0,198458
+2019,4,Other,Leisure,Mirissa,Hostel,13.0,1,40.0,0,Wet Season,1,37499
+2016,12,France,Leisure,Mirissa,Homestay,,1,49.0,1,Wet Season,0,248284
+2019,7,South Korea,Leisure,Colombo,3-Star,9.0,2,33.0,0,Dry Season,0,156446
+2018,3,Japan,Leisure,Mirissa,3-Star,12.0,3,37.0,0,Wet Season,0,208579
+2023,12,Australia,VFR,Gampaha,Homestay,12.0,5,32.0,0,Wet Season,0,172622
+2018,11,Other,Cultural,Kandy,Eco-Lodge,5.0,6,19.0,0,Wet Season,0,183630
+2016,3,Other,Cultural,Sigiriya,Homestay,9.0,2,34.0,0,Wet Season,0,194651
+2018,7,France,Eco-Tourism,Sinharaja,4-Star,6.0,1,48.0,0,Dry Season,0,175264
+2016,2,Other,Cultural,Anuradhapura,Homestay,6.0,4,36.0,0,Wet Season,0,211066
+2018,7,United Kingdom,Adventure,Ella,5-Star,7.0,2,49.0,0,Dry Season,0,182681
+2017,11,China,Leisure,Colombo,4-Star,11.0,1,43.0,0,Wet Season,0,186155
+2018,8,Japan,Cultural,Anuradhapura,3-Star,5.0,2,18.0,4,Dry Season,0,181259
+2020,2,India,Business,Colombo,Eco-Lodge,5.0,2,24.0,0,Wet Season,0,52608
+2015,2,Other,Leisure,Bentota,Budget Hotel,12.0,5,54.0,0,Wet Season,0,165942
+2015,11,United Kingdom,Adventure,Ella,3-Star,8.0,4,44.0,1,Wet Season,0,161144
+2015,6,Other,Adventure,Knuckles Range,5-Star,,2,28.0,2,Dry Season,0,114768
+2023,12,France,Eco-Tourism,Knuckles Range,Hostel,8.0,3,42.0,0,Wet Season,0,157498
+2018,5,India,VFR,Kandy,Eco-Lodge,8.0,2,43.0,0,Dry Season,0,154511
+2016,6,Canada,Adventure,Nuwara Eliya,3-Star,16.0,2,19.0,1,Dry Season,0,143780
+2017,8,Germany,Cultural,Polonnaruwa,5-Star,4.0,1,34.0,1,Dry Season,0,158296
+2023,6,India,Leisure,Galle,5-Star,8.0,4,,0,Dry Season,0,110460
+2022,7,India,Medical,Colombo,Hostel,12.0,2,38.0,0,Dry Season,0,59303
+2017,2,Other,Leisure,Colombo,5-Star,9.0,1,39.0,1,Wet Season,0,226142
+2018,8,Germany,Adventure,Knuckles Range,Hostel,12.0,2,33.0,0,Dry Season,0,182408
+2017,7,Other,Adventure,Ella,Boutique,12.0,4,54.0,1,Dry Season,0,170811
+2016,6,South Korea,Group Tour,Galle,Budget Hotel,5.0,3,37.0,1,Dry Season,0,137111
+2018,8,Netherlands,Cultural,Sigiriya,Homestay,4.0,3,41.0,0,Dry Season,0,183982
+2018,1,India,Business,Colombo,4-Star,4.0,1,75.0,0,Wet Season,0,248481
+2017,11,United Kingdom,Cultural,Sigiriya,Boutique,5.0,1,23.0,1,Wet Season,0,196574
+2022,11,Other,Cultural,Kandy,Budget Hotel,5.0,1,23.0,1,Wet Season,0,60117
+2019,9,India,VFR,Colombo,Eco-Lodge,19.0,1,35.0,0,Dry Season,0,133179
+2020,5,Switzerland,Eco-Tourism,Wilpattu,Eco-Lodge,13.0,2,31.0,0,Dry Season,1,633
+2015,5,India,Business,Colombo,3-Star,2.0,1,18.0,0,Dry Season,0,115545
+2017,4,Switzerland,Adventure,Knuckles Range,3-Star,11.0,1,24.0,0,Wet Season,0,157547
+2016,12,United Kingdm,Cultural,Anuradhapura,Budget Hotel,4.0,1,33.0,1,Wet Season,0,253196
+2017,5,Other,Adventure,Sigiriya,Budget Hotel,7.0,4,19.0,1,Dry Season,0,151335
+2023,2,France,Eco-Tourism,Knuckles Range,3-Star,10.0,2,,1,Wet Season,0,150540
+2016,4,India,Leisure,Bentota,Homestay,6.0,3,24.0,0,Wet Season,0,157394
+2019,3,Russia,Leisure,Colombo,Hostel,11.0,1,50.0,0,Wet Season,0,178925
+2016,7,United Kingdom,Cultural,Kandy,3-Star,4.0,2,18.0,4,Dry Season,0,173141
+2015,2,France,Leisure,Bentota,Homestay,13.0,2,49.0,3,Wet Season,0,162009
+2019,10,Russia,Honeymoon,Nuwara Eliya,4-Star,9.0,3,18.0,1,Wet Season,0,127785
+2016,1,China,Shopping,Gampaha,4-Star,4.0,4,31.0,2,Wet Season,0,201325
+2020,7,Germany,Leisure,Bentota,4-Star,10.0,3,30.0,0,Dry Season,1,766
+2016,5,Other,Cultural,Anuradhapura,Homestay,,1,40.0,0,Dry Season,0,130109
+2023,12,Germany,Eco-Tourism,Knuckles Range,3-Star,13.0,1,47.0,0,Wet Season,0,168804
+2016,5,Other,Leisure,Galle,Budget Hotel,9.0,2,,0,Dry Season,0,142130
+2015,12,Other,Leisure,Bentota,Budget Hotel,9.0,1,34.0,0,Wet Season,0,197742
+2023,1,Australia,VFR,Colombo,Budget Hotel,,3,48.0,3,Wet Season,0,157456
+2016,2,India,Business,Gampaha,Budget Hotel,3.0,3,27.0,2,Wet Season,0,203302
+2023,1,Other,Cultural,Kandy,5-Star,4.0,2,24.0,1,Wet Season,0,157228
+2023,7,Canada,Leisure,Galle,3-Star,12.0,1,28.0,0,Dry Season,0,119578
+2019,6,China,Shopping,Gampaha,5-Star,2.0,4,45.0,1,Dry Season,0,58133
+2019,12,United Kingdom,Adventure,Sigiriya,3-Star,10.0,1,24.0,0,Wet Season,0,222893
+2023,6,Germany,Leisure,Bentota,3-Star,11.0,2,49.0,2,Dry Season,0,98169
+2019,11,Switzerland,Eco-Tourism,Yala,5-Star,6.0,3,46.0,1,Wet Season,0,172281
+2015,12,United Kingdom,Leisure,Galle,4-Star,,1,56.0,3,Wet Season,0,207523
+2019,9,Other,Adventure,Nuwara Eliya,5-Star,10.0,3,49.0,0,Dry Season,0,125383
+2016,10,India,Leisure,Colombo,Eco-Lodge,10.0,3,33.0,2,Wet Season,0,149509
+2022,10,Australia,VFR,Colombo,4-Star,16.0,4,37.0,3,Wet Season,0,50369
+2019,3,Indai,Business,Colombo,Budget Hotel,4.0,2,62.0,0,Wet Season,0,169169
+2016,4,Russia,Beach,Bentota,5-Star,5.0,1,19.0,1,Wet Season,0,152373
+2019,12,United Kingdom,Leisure,Bentota,Homestay,11.0,1,38.0,0,Wet Season,0,236469
+2016,11,Switzerland,Adventure,Nuwara Eliya,Budget Hotel,14.0,2,30.0,2,Wet Season,0,182728
+2018,6,USA,Cultural,Anuradhapura,Hostel,9.0,2,30.0,0,Dry Season,0,159149
+2015,2,India,Business,Gampaha,3-Star,3.0,2,18.0,0,Wet Season,0,186775
+2018,11,Other,Cultural,Anuradhapura,Budget Hotel,6.0,4,42.0,3,Wet Season,0,213170
+2018,2,Other,Adventure,Knuckles Range,Boutique,10.0,1,18.0,0,Wet Season,0,213766
+2017,11,India,VFR,Gampaha,Hostel,18.0,2,18.0,0,Wet Season,0,180904
+2016,11,France,Cultural,Anuradhapura,5-Star,6.0,1,24.0,2,Wet Season,0,165499
+2019,6,Other,Adventure,Ella,4-Star,14.0,5,18.0,0,Dry Season,0,65694
+2017,4,Canada,Adventure,Nuwara Eliya,Budget Hotel,9.0,2,37.0,4,Wet Season,0,162288
+2017,7,India,Business,Colombo,3-Star,4.0,1,33.0,2,Dry Season,0,177144
+2015,12,Other,Leisure,Bentota,Eco-Lodge,7.0,3,18.0,0,Wet Season,0,209476
+2015,1,Italy,Leisure,Bentota,4-Star,6.0,2,22.0,0,Wet Season,0,207093
+2019,11,Other,Leisure,Bentota,3-Star,8.0,3,38.0,1,Wet Season,0,159928
+2018,8,United Kingdom,Honeymoon,Bentota,3-Star,,2,29.0,3,Dry Season,0,180183
+2015,2,Other,Adventure,Nuwara Eliya,3-Star,10.0,5,19.0,1,Wet Season,0,193718
+2015,11,Russia,Honeymoon,Galle,Eco-Lodge,11.0,2,63.0,0,Wet Season,0,155729
+2017,5,Australia,Leisure,Colombo,Eco-Lodge,,2,47.0,1,Dry Season,0,141680
+2018,4,Other,Cultural,Sigiriya,5-Star,6.0,3,35.0,4,Wet Season,0,167841
+2023,1,China,Shopping,Colombo,4-Star,6.0,3,29.0,0,Wet Season,0,165763
+2016,9,Australia,Leisure,Bentota,3-Star,10.0,1,45.0,2,Dry Season,0,120795
+2015,4,Other,Adventure,Knuckles Range,Budget Hotel,9.0,2,29.0,2,Wet Season,0,127566
+2023,10,Other,Adventure,Nuwara Eliya,5-Star,12.0,6,35.0,0,Wet Season,0,100706
+2018,6,China,Group Tour,Kandy,Homestay,8.0,2,24.0,0,Dry Season,0,151924
+2016,3,France,Leisure,Colombo,4-Star,8.0,2,43.0,2,Wet Season,0,179289
+2016,1,United Kingdom,Adventure,Knuckles Range,Budget Hotel,8.0,5,44.0,2,Wet Season,0,227807
+2022,5,Germany,Adventure,Nuwara Eliya,Eco-Lodge,14.0,4,46.0,0,Dry Season,0,48285
+2023,2,India,Medical,Colombo,Homestay,10.0,3,38.0,4,Wet Season,0,142322
+2021,12,India,Medical,Colombo,Homestay,18.0,1,,2,Wet Season,0,13188
+2015,2,France,Eco-Tourism,Sinharaja,Homestay,11.0,5,50.0,0,Wet Season,0,186924
+2020,4,India,VFR,Colombo,4-Star,,2,37.0,1,Wet Season,1,724
+2015,7,Germany,Cultural,Anuradhapura,Eco-Lodge,7.0,1,42.0,0,Dry Season,0,143590
+2018,7,India,Business,Gampaha,Eco-Lodge,5.0,1,,1,Dry Season,0,185995
+2022,10,Australia,Leisure,Bentota,Eco-Lodge,6.0,1,24.0,2,Wet Season,0,54348
+2022,12,USA,Business,Gampaha,4-Star,3.0,1,36.0,0,Wet Season,0,75804
+2019,3,United Kingdom,Leisure,Mirissa,Eco-Lodge,11.0,1,32.0,3,Wet Season,0,170819
+2015,2,France,Leisure,Mirissa,3-Star,7.0,2,49.0,3,Wet Season,0,173585
+2015,4,China,Shopping,Gampaha,4-Star,5.0,3,18.0,4,Wet Season,0,132137
+2020,12,USA,Cultural,Sigiriya,4-Star,,4,34.0,0,Wet Season,1,9236
+2015,10,Switzerland,Leisure,Bentota,Homestay,7.0,2,33.0,1,Wet Season,0,129251
+2018,6,Russia,Honeymoon,Mirissa,Boutique,8.0,2,60.0,1,Dry Season,0,173668
+2023,3,Germany,Adventure,Sigiriya,4-Star,14.0,3,45.0,0,Wet Season,0,142352
+2022,1,Germany,Eco-Tourism,Wilpattu,3-Star,5.0,6,42.0,3,Wet Season,0,76763
+2017,8,India,VFR,Colombo,Eco-Lodge,15.0,6,44.0,3,Dry Season,0,164392
+2016,8,Other,Leisure,Galle,Hostel,10.0,2,27.0,2,Dry Season,0,166814
+2023,2,United Kingdom,Leisure,Bentota,Budget Hotel,7.0,1,29.0,0,Wet Season,0,143215
+2019,7,India,Leisure,Colombo,Budget Hotel,,2,19.0,0,Dry Season,0,161121
+2018,11,India,Business,Gampaha,Budget Hotel,4.0,2,37.0,0,Wet Season,0,200882
+2018,12,Germany,Adventure,Nuwara Eliya,Boutique,17.0,1,65.0,0,Wet Season,0,258539
+2022,6,Switzerland,Adventure,Ella,Homestay,13.0,4,55.0,0,Dry Season,0,48130
+2018,7,Switzerland,Adventure,Knuckles Range,5-Star,17.0,1,65.0,0,Dry Season,0,197145
+2022,7,Australia,Adventure,Knuckles Range,5-Star,9.0,1,35.0,0,Dry Season,0,60796
+2015,12,South Korea,Cultural,Anuradhapura,5-Star,7.0,4,37.0,1,Wet Season,0,198217
+2023,11,India,VFR,Colombo,3-Star,,2,47.0,3,Wet Season,0,116864
+2016,7,USA,Cultural,Kandy,Eco-Lodge,4.0,2,30.0,0,Dry Season,0,176134
+2023,7,Canada,Cultural,Sigiriya,3-Star,9.0,1,47.0,2,Dry Season,0,115956
+2018,2,France,Cultural,Sigiriya,Hostel,8.0,3,35.0,0,Wet Season,0,226771
+2019,1,India,VFR,Kandy,4-Star,6.0,2,24.0,3,Wet Season,0,199373
+2017,7,France,Cultural,Sigiriya,Budget Hotel,5.0,6,40.0,3,Dry Season,0,181196
+2019,2,China,Group Tour,Galle,Homestay,8.0,2,56.0,1,Wet Season,0,189492
+2016,3,Other,Adventure,Sigiriya,Hostel,,3,25.0,0,Wet Season,0,185818
+2017,11,Australia,Leisure,Bentota,Homestay,6.0,1,46.0,0,Wet Season,0,180444
+2018,6,India,Leisure,Colombo,Boutique,8.0,2,56.0,0,Dry Season,0,169198
+2019,11,Other,Adventure,Nuwara Eliya,Budget Hotel,10.0,4,42.0,1,Wet Season,0,156792
+2018,6,India,Business,Colombo,Eco-Lodge,4.0,4,53.0,4,Dry Season,0,154189
+2019,7,Italy,Honeymoon,Nuwara Eliya,3-Star,9.0,3,44.0,0,Dry Season,0,157299
+2023,5,China,Group Tour,Sigiriya,5-Star,,2,70.0,1,Dry Season,0,94604
+2015,7,India,Medical,Colombo,Homestay,8.0,2,18.0,0,Dry Season,0,148012
+2022,9,China,Group Tour,Sigiriya,Boutique,7.0,6,31.0,0,Dry Season,0,48059
+2017,5,India,Medical,Colombo,Hostel,10.0,3,35.0,0,Dry Season,0,142739
+2017,12,Netherlands,Cultural,Sigiriya,3-Star,4.0,4,46.0,2,Wet Season,0,261280
+2017,5,India,Business,Gampaha,Eco-Lodge,2.0,3,58.0,1,Dry Season,0,123398
+2023,12,Other,Adventure,Nuwara Eliya,4-Star,17.0,1,42.0,0,Wet Season,0,174065
+2018,2,Netherlands,Leisure,Colombo,Homestay,10.0,3,18.0,1,Wet Season,0,238595
+2019,4,Other,Cultural,Anuradhapura,3-Star,8.0,2,35.0,0,Wet Season,1,32886
+2015,1,Netherlands,Eco-Tourism,Yala,Budget Hotel,9.0,1,44.0,0,Wet Season,0,179069
+2019,4,Maldives,Transit,Colombo,4-Star,1.0,1,26.0,2,Wet Season,1,37528
+2018,7,Maldives,Business,Gampaha,Hostel,3.0,2,51.0,0,Dry Season,0,201468
+2019,10,Australia,Leisure,Galle,5-Star,13.0,1,35.0,0,Wet Season,0,135246
+2017,4,Indai,Business,Colombo,4-Star,5.0,4,40.0,0,Wet Season,0,151491
+2016,2,USA,Business,Gampaha,Homestay,5.0,2,41.0,1,Wet Season,0,197267
+2016,12,USA,Cultural,Kandy,Budget Hotel,8.0,1,44.0,0,Wet Season,0,227638
+2021,10,Germany,Leisure,Galle,Homestay,8.0,2,29.0,2,Wet Season,1,4578
+2022,12,Germany,Cultural,Sigiriya,Hostel,4.0,1,,0,Wet Season,0,82807
+2019,2,China,Group Tour,Kandy,4-Star,6.0,1,47.0,0,Wet Season,0,187286
+2015,1,Netherlands,Cultural,Anuradhapura,Homestay,9.0,2,38.0,0,Wet Season,0,178993
+2017,1,China,Leisure,Colombo,Budget Hotel,10.0,2,23.0,0,Wet Season,0,209754
+2019,5,Russia,Honeymoon,Bentota,Budget Hotel,,1,63.0,2,Dry Season,1,39484
+2019,12,Other,Leisure,Galle,Homestay,6.0,4,27.0,0,Wet Season,0,229445
+2023,8,Other,Adventure,Ella,Boutique,17.0,2,47.0,4,Dry Season,0,116381
+2019,11,Australia,VFR,Colombo,Hostel,,1,24.0,0,Wet Season,0,149646
+2018,10,Italy,Cultural,Anuradhapura,5-Star,6.0,2,44.0,0,Wet Season,0,170727
+2018,10,Other,Leisure,Galle,5-Star,13.0,2,60.0,1,Wet Season,0,154571
+2017,1,Netherlands,Eco-Tourism,Yala,Boutique,7.0,3,29.0,1,Wet Season,0,190784
+2016,3,China,Group Tour,Colombo,4-Star,9.0,1,32.0,0,Wet Season,0,204340
+2022,2,China,Group Tour,Sigiriya,Eco-Lodge,,3,46.0,2,Wet Season,0,65969
+2017,7,France,Leisure,Colombo,Budget Hotel,8.0,2,36.0,0,Dry Season,0,176812
+2018,12,China,Group Tour,Galle,Homestay,5.0,2,36.0,0,Wet Season,0,267376
+2020,10,South Korea,Group Tour,Sigiriya,Hostel,5.0,1,26.0,0,Wet Season,1,1904
+2018,3,United Kingdom,Leisure,Colombo,Budget Hotel,11.0,2,27.0,2,Wet Season,0,186921
+2016,2,USA,Leisure,Bentota,5-Star,6.0,2,18.0,0,Wet Season,0,208378
+2016,2,USA,Leisure,Bentota,Hostel,11.0,2,30.0,4,Wet Season,0,201369
+2018,5,Other,Adventure,Nuwara Eliya,3-Star,16.0,2,26.0,0,Dry Season,0,158721
+2015,8,United Kingdom,Cultural,Sigiriya,Boutique,4.0,1,43.0,0,Dry Season,0,146456
+2019,12,Maldives,Business,Gampaha,Boutique,2.0,3,44.0,0,Wet Season,0,237929
+2018,5,Other,Leisure,Galle,5-Star,,2,42.0,3,Dry Season,0,155156
+2019,11,Canada,Cultural,Sigiriya,Boutique,4.0,1,39.0,1,Wet Season,0,156735
+2017,5,China,Shopping,Colombo,4-Star,3.0,3,19.0,2,Dry Season,0,137676
+2023,4,India,VFR,Gampaha,4-Star,14.0,4,23.0,1,Wet Season,0,117270
+2015,4,Other,Cultural,Polonnaruwa,Budget Hotel,8.0,3,,0,Wet Season,0,123184
+2022,7,India,Business,Gampaha,5-Star,3.0,1,30.0,0,Dry Season,0,59170
+2017,7,India,Business,Gampaha,4-Star,5.0,4,34.0,1,Dry Season,0,182539
+2019,9,Canada,Leisure,Mirissa,5-Star,12.0,4,18.0,1,Dry Season,0,135985
+2015,6,Maldives,Business,Gampaha,4-Star,5.0,1,28.0,2,Dry Season,0,114669
+2016,7,United Kingdom,Adventure,Knuckles Range,Budget Hotel,16.0,1,18.0,0,Dry Season,0,174639
+2020,2,United Kingdom,Honeymoon,Mirissa,4-Star,16.0,2,33.0,1,Wet Season,0,50505
+2017,7,France,Eco-Tourism,Knuckles Range,Boutique,13.0,3,54.0,3,Dry Season,0,172821
+2019,12,USA,Business,Colombo,Hostel,5.0,3,,0,Wet Season,0,211880
+2016,6,China,Leisure,Bentota,Hostel,10.0,2,38.0,2,Dry Season,0,130656
+2016,3,United Kingdom,Honeymoon,Nuwara Eliya,5-Star,11.0,1,58.0,1,Wet Season,0,185838
+2015,4,Other,Leisure,Mirissa,Hostel,13.0,2,48.0,0,Wet Season,0,135866
+2017,3,USA,Leisure,Galle,3-Star,6.0,1,29.0,1,Wet Season,0,173879
+2015,2,India,Business,Gampaha,5-Star,3.0,2,47.0,0,Wet Season,0,171499
+2023,3,Germany,Eco-Tourism,Yala,Budget Hotel,5.0,1,18.0,2,Wet Season,0,137618
+2019,1,Switzerland,Eco-Tourism,Knuckles Range,Boutique,9.0,4,38.0,0,Wet Season,0,209916
+2017,5,Other,Cultural,Sigiriya,3-Star,5.0,1,48.0,0,Dry Season,0,124114
+2020,1,Russia,Beach,Arugam Bay,Boutique,6.0,2,25.0,0,Wet Season,0,56753
+2017,6,Other,Cultural,Kandy,5-Star,9.0,1,26.0,0,Dry Season,0,141064
+2022,11,Other,Adventure,Ella,5-Star,9.0,3,52.0,1,Wet Season,0,60769
+2019,11,India,Business,Colombo,Budget Hotel,5.0,2,35.0,0,Wet Season,0,154294
+2020,6,France,Eco-Tourism,Wilpattu,Boutique,9.0,1,26.0,0,Dry Season,1,724
+2016,2,France,Eco-Tourism,Wilpattu,Homestay,9.0,1,49.0,0,Wet Season,0,215849
+2017,3,Australia,VFR,Kandy,Eco-Lodge,12.0,2,25.0,0,Wet Season,0,210044
+2018,4,France,Leisure,Mirissa,Homestay,8.0,1,50.0,0,Wet Season,0,163380
+2019,11,Other,Leisure,Mirissa,Boutique,8.0,3,33.0,1,Wet Season,0,161290
+2018,9,India,Leisure,Bentota,Eco-Lodge,,2,53.0,0,Dry Season,0,152981
+2019,8,Other,Adventure,Knuckles Range,Homestay,9.0,3,24.0,0,Dry Season,0,162149
+2017,9,Netherlands,Leisure,Colombo,Homestay,13.0,1,61.0,0,Dry Season,0,153252
+2016,8,India,Business,Gampaha,Homestay,5.0,2,36.0,0,Dry Season,0,164447
+2017,1,Switzerland,Eco-Tourism,Knuckles Range,3-Star,13.0,1,32.0,3,Wet Season,0,230562
+2019,3,Germany,Leisure,Galle,Hostel,11.0,2,43.0,1,Wet Season,0,184340
+2015,12,Australia,Adventure,Knuckles Range,Hostel,11.0,4,32.0,1,Wet Season,0,216717
+2015,6,India,Business,Gampaha,4-Star,,5,45.0,0,Dry Season,0,117354
+2023,7,Russia,Leisure,Mirissa,Boutique,9.0,1,52.0,1,Dry Season,0,114638
+2018,6,United Kingdom,Leisure,Colombo,Hostel,13.0,3,49.0,1,Dry Season,0,158452
+2019,10,United Kingdm,Leisure,Bentota,Boutique,10.0,2,,0,Wet Season,0,129674
+2018,12,India,Business,Colombo,3-Star,3.0,5,36.0,1,Wet Season,0,281487
+2017,2,Other,Adventure,Knuckles Range,5-Star,11.0,2,33.0,2,Wet Season,0,195741
+2015,4,Other,Cultural,Anuradhapura,Hostel,5.0,2,18.0,1,Wet Season,0,121742
+2015,4,Australia,VFR,Colombo,Eco-Lodge,17.0,2,48.0,1,Wet Season,0,136787
+2018,8,India,VFR,Kandy,4-Star,15.0,3,18.0,0,Dry Season,0,186756
+2019,12,Australia,Leisure,Galle,5-Star,6.0,2,40.0,0,Wet Season,0,209123
+2015,3,Japan,Eco-Tourism,Knuckles Range,3-Star,13.0,2,26.0,0,Wet Season,0,166108
+2018,6,India,Business,Gampaha,3-Star,3.0,1,57.0,0,Dry Season,0,167257
+2021,3,Germany,Adventure,Nuwara Eliya,3-Star,17.0,1,37.0,2,Wet Season,1,869
+2017,12,Other,Cultural,Sigiriya,Budget Hotel,6.0,3,,3,Wet Season,0,246570
+2015,9,United Kingdom,Cultural,Polonnaruwa,3-Star,9.0,1,59.0,0,Dry Season,0,113519
+2017,4,USA,Business,Colombo,Budget Hotel,4.0,1,68.0,1,Wet Season,0,147951
+2018,2,Other,Adventure,Ella,3-Star,15.0,1,40.0,0,Wet Season,0,217643
+2018,6,Switzerland,Eco-Tourism,Wilpattu,Hostel,12.0,3,46.0,2,Dry Season,0,159189
+2017,2,Other,Leisure,Galle,5-Star,8.0,1,18.0,1,Wet Season,0,201720
+2016,2,Australia,Leisure,Galle,Eco-Lodge,12.0,1,35.0,1,Wet Season,0,194503
+2023,12,Netherlands,Eco-Tourism,Wilpattu,3-Star,7.0,4,34.0,0,Wet Season,0,174860
+2019,9,Other,Leisure,Galle,Budget Hotel,5.0,1,25.0,1,Dry Season,0,122105
+2015,1,China,Leisure,Mirissa,Homestay,12.0,4,38.0,3,Wet Season,0,180717
+2022,11,United Kingdom,Leisure,Bentota,Boutique,7.0,4,,2,Wet Season,0,59331
+2017,2,Russia,Honeymoon,Nuwara Eliya,Eco-Lodge,14.0,2,44.0,0,Wet Season,0,206491
+2022,11,India,VFR,Colombo,Budget Hotel,15.0,2,52.0,0,Wet Season,0,60271
+2023,8,India,Leisure,Mirissa,3-Star,13.0,5,38.0,0,Dry Season,0,114127
+2016,9,USA,Leisure,Bentota,Hostel,,1,35.0,0,Dry Season,0,139061
+2020,12,Other,Leisure,Galle,Boutique,,3,34.0,0,Wet Season,1,8057
+2019,11,United Kingdom,Leisure,Galle,Homestay,5.0,1,20.0,0,Wet Season,0,159607
+2015,11,Other,Adventure,Knuckles Range,Homestay,13.0,3,40.0,0,Wet Season,0,156241
+2023,3,Other,Cultural,Sigiriya,Homestay,4.0,3,37.0,3,Wet Season,0,140149
+2016,4,Indai,Business,Gampaha,4-Star,4.0,1,53.0,3,Wet Season,0,139499
+2023,6,Other,Leisure,Colombo,4-Star,,1,32.0,2,Dry Season,0,107012
+2018,1,Australia,Leisure,Bentota,3-Star,13.0,2,,0,Wet Season,0,240615
+2017,4,South Korea,Group Tour,Kandy,3-Star,8.0,2,36.0,1,Wet Season,0,163399
+2017,11,India,Medical,Colombo,5-Star,21.0,6,27.0,1,Wet Season,0,178626
+2016,5,Maldives,Leisure,Mirissa,4-Star,13.0,1,30.0,1,Dry Season,0,140488
+2017,10,India,Business,Colombo,Homestay,3.0,6,29.0,0,Wet Season,0,153028
+2023,1,Germany,Leisure,Galle,3-Star,,2,51.0,2,Wet Season,0,149011
+2017,3,Italy,Cultural,Kandy,Boutique,5.0,4,59.0,0,Wet Season,0,186646
+2018,5,Other,Adventure,Ella,Homestay,13.0,2,41.0,0,Dry Season,0,144742
+2016,12,Maldives,Leisure,Colombo,Hostel,8.0,2,33.0,1,Wet Season,0,238187
+2023,12,India,Medical,Colombo,Boutique,6.0,1,32.0,0,Wet Season,0,172780
+2017,3,China,Group Tour,Galle,3-Star,7.0,2,37.0,0,Wet Season,0,191373
+2017,11,Indai,Medical,Colombo,Homestay,17.0,1,52.0,0,Wet Season,0,172132
+2016,3,United Kingdom,Cultural,Kandy,Hostel,9.0,1,35.0,0,Wet Season,0,185349
+2015,6,India,Medical,Colombo,5-Star,16.0,1,53.0,1,Dry Season,0,127003
+2018,11,Other,Adventure,Knuckles Range,Hostel,14.0,1,43.0,1,Wet Season,0,207669
+2018,9,Other,Leisure,Bentota,Hostel,9.0,2,28.0,0,Dry Season,0,157089
+2015,11,United Kingdom,Cultural,Polonnaruwa,3-Star,6.0,2,24.0,0,Wet Season,0,150491
+2022,9,Maldives,Leisure,Colombo,Boutique,6.0,2,28.0,1,Dry Season,0,45499
+2018,12,United Kingdom,Cultural,Polonnaruwa,Boutique,6.0,4,41.0,2,Wet Season,0,277258
+2018,6,USA,Business,Gampaha,5-Star,2.0,3,33.0,0,Dry Season,0,162296
+2019,12,India,VFR,Kandy,Boutique,20.0,3,35.0,1,Wet Season,0,215622
+2015,12,China,Shopping,Colombo,Eco-Lodge,6.0,2,50.0,1,Wet Season,0,212935
+2018,3,India,Medical,Colombo,4-Star,,1,24.0,0,Wet Season,0,217583
+2020,2,United Kingdom,Honeymoon,Nuwara Eliya,Boutique,13.0,2,34.0,1,Wet Season,0,53598
+2021,4,United Kingdom,Leisure,Bentota,Boutique,8.0,2,47.0,0,Wet Season,1,677
+2019,7,India,Leisure,Bentota,Hostel,7.0,4,36.0,1,Dry Season,0,159596
+2019,4,France,Cultural,Kandy,3-Star,4.0,4,55.0,1,Wet Season,1,33602
+2023,1,Other,Adventure,Nuwara Eliya,Homestay,13.0,2,28.0,0,Wet Season,0,156138
+2023,12,India,Business,Gampaha,Hostel,5.0,2,36.0,0,Wet Season,0,180289
+2018,7,Netherlands,Eco-Tourism,Knuckles Range,3-Star,13.0,1,28.0,2,Dry Season,0,197078
+2020,8,India,Medical,Colombo,3-Star,14.0,5,18.0,0,Dry Season,1,813
+2017,11,Other,Adventure,Sigiriya,Hostel,12.0,2,51.0,0,Wet Season,0,175229
+2019,11,Other,Adventure,Nuwara Eliya,Budget Hotel,10.0,4,42.0,1,Wet Season,0,156792
+2018,10,United Kingdom,Leisure,Mirissa,Homestay,8.0,4,54.0,0,Wet Season,0,160054
+2018,5,Other,Leisure,Mirissa,Boutique,8.0,2,25.0,4,Dry Season,0,155615
+2018,6,Australia,Adventure,Knuckles Range,Eco-Lodge,8.0,2,29.0,0,Dry Season,0,154158
+2017,6,Germany,Adventure,Nuwara Eliya,5-Star,11.0,2,31.0,0,Dry Season,0,152125
+2018,2,India,Medical,Colombo,Budget Hotel,25.0,1,46.0,0,Wet Season,0,231319
+2017,2,Other,Cultural,Anuradhapura,Homestay,7.0,3,30.0,4,Wet Season,0,204507
+2019,11,India,VFR,Kandy,Boutique,9.0,4,48.0,1,Wet Season,0,173816
+2019,8,India,VFR,Kandy,5-Star,,1,39.0,0,Dry Season,0,152098
+2023,4,Germany,Adventure,Knuckles Range,4-Star,7.0,2,28.0,2,Wet Season,0,104547
+2015,12,USA,Cultural,Kandy,3-Star,8.0,3,27.0,0,Wet Season,0,206779
+2016,3,United Kingdom,Adventure,Knuckles Range,5-Star,15.0,5,45.0,1,Wet Season,0,192045
+2015,10,Other,Adventure,Knuckles Range,Homestay,8.0,1,46.0,0,Wet Season,0,125116
+2020,10,Other,Adventure,Nuwara Eliya,Budget Hotel,7.0,4,38.0,1,Wet Season,1,1761
+2016,2,Russia,Honeymoon,Galle,Eco-Lodge,8.0,3,30.0,0,Wet Season,0,201136
+2018,4,France,Cultural,Anuradhapura,Homestay,8.0,1,37.0,0,Wet Season,0,172631
+2017,12,Japan,Leisure,Bentota,Eco-Lodge,5.0,5,18.0,1,Wet Season,0,229466
+2018,1,Other,Leisure,Bentota,Homestay,8.0,2,47.0,0,Wet Season,0,232585
+2022,9,Other,Leisure,Colombo,Boutique,6.0,1,45.0,0,Dry Season,0,45341
+2015,7,USA,Leisure,Mirissa,Eco-Lodge,10.0,1,50.0,0,Dry Season,0,144492
+2023,10,Other,Leisure,Colombo,5-Star,11.0,2,47.0,1,Wet Season,0,105706
+2023,1,Maldives,Transit,Colombo,Boutique,1.0,3,24.0,1,Wet Season,0,160561
+2023,4,India,VFR,Gampaha,Budget Hotel,13.0,1,39.0,0,Wet Season,0,120638
+2018,3,Other,Adventure,Sigiriya,Homestay,11.0,1,27.0,0,Wet Season,0,217593
+2017,12,India,Medical,Colombo,Hostel,22.0,2,56.0,1,Wet Season,0,227224
+2015,11,India,Medical,Colombo,4-Star,28.0,2,24.0,0,Wet Season,0,146782
+2016,12,Other,Cultural,Kandy,4-Star,4.0,3,47.0,0,Wet Season,0,237424
+2015,12,India,Leisure,Colombo,4-Star,7.0,1,47.0,0,Wet Season,0,211584
+2016,12,Russia,Beach,Hikkaduwa,Budget Hotel,9.0,1,55.0,0,Wet Season,0,219028
+2021,7,Japan,Cultural,Kandy,Eco-Lodge,5.0,2,36.0,0,Dry Season,1,1699
+2018,10,France,Leisure,Galle,Budget Hotel,13.0,2,27.0,1,Wet Season,0,162737
+2022,9,Australia,Adventure,Ella,Hostel,16.0,2,30.0,0,Dry Season,0,44736
+2016,3,Germany,Cultural,Sigiriya,Boutique,6.0,2,,1,Wet Season,0,167996
+2023,11,India,Medical,Colombo,3-Star,28.0,4,68.0,0,Wet Season,0,129706
+2015,12,Other,Leisure,Bentota,Boutique,7.0,3,42.0,0,Wet Season,0,207671
+2017,1,France,Leisure,Bentota,Hostel,5.0,2,18.0,1,Wet Season,0,226192
+2018,11,Maldives,Transit,Colombo,5-Star,1.0,1,36.0,0,Wet Season,0,193163
+2021,5,China,Group Tour,Colombo,Homestay,5.0,5,42.0,0,Dry Season,1,693
+2015,1,Japan,Leisure,Bentota,Homestay,9.0,1,21.0,1,Wet Season,0,194997
+2019,3,India,Leisure,Colombo,Eco-Lodge,,5,50.0,1,Wet Season,0,197515
+2016,3,Germany,Eco-Tourism,Knuckles Range,Budget Hotel,11.0,2,35.0,3,Wet Season,0,180356
+2016,12,Other,Cultural,Kandy,Eco-Lodge,7.0,2,22.0,1,Wet Season,0,214942
+2017,11,Italy,Honeymoon,Bentota,5-Star,11.0,2,45.0,0,Wet Season,0,196592
+2018,8,Germany,Adventure,Knuckles Range,Hostel,12.0,2,47.0,0,Dry Season,0,189193
+2020,3,Canada,Cultural,Sigiriya,Budget Hotel,9.0,2,46.0,0,Wet Season,1,14642
+2016,3,India,Medical,Colombo,4-Star,27.0,1,18.0,4,Wet Season,0,195135
+2016,11,Canada,Cultural,Sigiriya,Budget Hotel,7.0,2,34.0,2,Wet Season,0,182580
+2018,5,China,Group Tour,Galle,Hostel,7.0,1,41.0,1,Dry Season,0,156797
+2019,8,China,Leisure,Colombo,Hostel,8.0,2,40.0,0,Dry Season,0,153780
+2018,4,France,Leisure,Bentota,4-Star,7.0,1,,0,Wet Season,0,168977
+2018,12,India,VFR,Kandy,4-Star,8.0,2,53.0,4,Wet Season,0,272907
+2015,12,Other,Cultural,Kandy,Boutique,4.0,1,34.0,2,Wet Season,0,201656
+2017,4,Germany,Eco-Tourism,Sinharaja,Eco-Lodge,11.0,1,29.0,0,Wet Season,0,164341
+2017,6,Canada,Adventure,Nuwara Eliya,3-Star,12.0,4,42.0,2,Dry Season,0,150400
+2017,6,United Kingdom,Honeymoon,Bentota,5-Star,14.0,3,47.0,1,Dry Season,0,149787
+2018,1,India,VFR,Kandy,3-Star,17.0,2,27.0,2,Wet Season,0,226395
+2020,10,India,Medical,Colombo,4-Star,21.0,4,60.0,0,Wet Season,1,1864
+2016,2,France,Cultural,Kandy,Boutique,7.0,3,23.0,0,Wet Season,0,211167
+2019,8,Canada,Leisure,Bentota,Homestay,5.0,2,24.0,1,Dry Season,0,159888
+2019,5,India,Leisure,Mirissa,3-Star,,1,25.0,0,Dry Season,1,45370
+2016,9,China,Leisure,Mirissa,5-Star,11.0,4,44.0,1,Dry Season,0,142174
+2019,6,United Kingdom,Adventure,Knuckles Range,5-Star,9.0,2,45.0,1,Dry Season,0,69700
+2022,2,India,Leisure,Galle,Budget Hotel,13.0,2,18.0,0,Wet Season,0,73218
+2022,3,United Kingdom,Adventure,Sigiriya,3-Star,9.0,5,42.0,0,Wet Season,0,67984
+2019,3,United Kingdom,Honeymoon,Nuwara Eliya,Budget Hotel,19.0,1,18.0,2,Wet Season,0,191595
+2017,1,France,Leisure,Mirissa,3-Star,12.0,1,58.0,0,Wet Season,0,233334
+2023,5,Japan,Leisure,Colombo,3-Star,9.0,2,34.0,0,Dry Season,0,88446
+2023,4,Other,Leisure,Mirissa,Homestay,9.0,2,25.0,0,Wet Season,0,112219
+2023,10,Other,Leisure,Colombo,Eco-Lodge,5.0,2,50.0,0,Wet Season,0,106500
+2023,7,Canada,Cultural,Polonnaruwa,5-Star,8.0,1,32.0,0,Dry Season,0,122500
+2019,3,Maldives,Business,Gampaha,Boutique,4.0,4,61.0,0,Wet Season,0,176873
+2018,10,Australia,VFR,Kandy,Homestay,18.0,2,50.0,0,Wet Season,0,164722
+2019,6,United Kingdom,Leisure,Galle,4-Star,13.0,1,36.0,2,Dry Season,0,65810
+2015,11,Germany,Adventure,Ella,Boutique,8.0,1,19.0,0,Wet Season,0,149014
+2015,2,India,Business,Colombo,5-Star,3.0,4,53.0,1,Wet Season,0,164920
+2018,1,China,Group Tour,Galle,3-Star,6.0,1,32.0,0,Wet Season,0,269676
+2017,5,Japan,Leisure,Mirissa,Hostel,5.0,2,51.0,0,Dry Season,0,133625
+2015,2,Canada,Adventure,Nuwara Eliya,Homestay,11.0,1,29.0,1,Wet Season,0,176115
+2018,5,USA,Cultural,Kandy,5-Star,5.0,5,18.0,0,Dry Season,0,157732
+2016,9,United Kingdom,Adventure,Ella,4-Star,8.0,1,39.0,0,Dry Season,0,144932
+2023,12,Netherlands,Cultural,Anuradhapura,Budget Hotel,9.0,2,55.0,1,Wet Season,0,157975
+2019,4,Other,Adventure,Knuckles Range,Eco-Lodge,17.0,5,51.0,2,Wet Season,1,35737
+2023,9,USA,Cultural,Kandy,5-Star,6.0,2,53.0,1,Dry Season,0,89881
+2018,11,Germany,Cultural,Polonnaruwa,Boutique,5.0,3,31.0,0,Wet Season,0,194298
+2016,6,China,Shopping,Colombo,Boutique,3.0,4,64.0,2,Dry Season,0,132241
+2017,1,France,Cultural,Kandy,3-Star,6.0,1,55.0,1,Wet Season,0,229830
+2015,2,India,Leisure,Bentota,Boutique,6.0,1,20.0,4,Wet Season,0,185251
+2017,4,Netherlands,Cultural,Sigiriya,5-Star,7.0,4,25.0,1,Wet Season,0,158128
+2018,5,India,Medical,Colombo,Boutique,21.0,6,58.0,0,Dry Season,0,155482
+2017,2,India,Business,Gampaha,Hostel,4.0,1,34.0,0,Wet Season,0,190861
+2017,4,China,Leisure,Bentota,Hostel,10.0,1,37.0,0,Wet Season,0,170275
+2015,6,China,Leisure,Galle,4-Star,12.0,2,41.0,0,Dry Season,0,121901
+2019,1,France,Eco-Tourism,Wilpattu,5-Star,6.0,1,52.0,0,Wet Season,0,198802
+2018,2,China,Group Tour,Galle,5-Star,8.0,1,30.0,0,Wet Season,0,217184
+2018,3,United Kingdom,Cultural,Anuradhapura,Boutique,4.0,1,29.0,4,Wet Season,0,210935
+2020,7,France,Eco-Tourism,Knuckles Range,5-Star,12.0,4,42.0,0,Dry Season,1,803
+2015,5,United Kingdom,Honeymoon,Bentota,Hostel,18.0,2,25.0,0,Dry Season,0,112278
+2018,11,China,Shopping,Colombo,Boutique,3.0,1,37.0,0,Wet Season,0,199243
+2017,3,Canada,Adventure,Ella,5-Star,17.0,1,20.0,0,Wet Season,0,212874
+2017,2,India,Leisure,Galle,Homestay,,3,27.0,0,Wet Season,0,205077
+2019,8,Italy,Leisure,Bentota,Hostel,13.0,3,32.0,2,Dry Season,0,148302
+2020,2,United Kingdm,Leisure,Mirissa,5-Star,,3,47.0,0,Wet Season,0,51816
+2019,8,India,VFR,Gampaha,Homestay,6.0,5,52.0,0,Dry Season,0,156857
+2018,8,Other,Cultural,Sigiriya,Homestay,7.0,2,40.0,0,Dry Season,0,199686
+2015,12,Netherlands,Eco-Tourism,Knuckles Range,5-Star,10.0,2,61.0,1,Wet Season,0,207294
+2018,7,France,Leisure,Galle,Eco-Lodge,8.0,1,27.0,0,Dry Season,0,168363
+2018,12,Japan,Eco-Tourism,Sinharaja,3-Star,7.0,4,,0,Wet Season,0,280601
+2018,8,Other,Cultural,Kandy,Homestay,5.0,1,35.0,4,Dry Season,0,188460
+2018,2,United Kingdm,Honeymoon,Bentota,Hostel,12.0,4,33.0,2,Wet Season,0,236914
+2015,12,Germany,Cultural,Kandy,Eco-Lodge,4.0,2,27.0,0,Wet Season,0,196635
+2015,2,India,Leisure,Mirissa,Hostel,10.0,3,,0,Wet Season,0,167501
+2020,11,United Kingdom,Leisure,Colombo,3-Star,,1,,1,Wet Season,1,3249
+2017,12,Other,Adventure,Ella,Homestay,10.0,2,35.0,0,Wet Season,0,257590
+2018,9,Australia,VFR,Kandy,Hostel,19.0,1,,1,Dry Season,0,137350
+2015,12,United Kingdom,Leisure,Bentota,Boutique,13.0,2,38.0,3,Wet Season,0,209945
+2019,1,Other,Adventure,Knuckles Range,Eco-Lodge,12.0,1,53.0,0,Wet Season,0,214766
+2016,12,India,VFR,Kandy,Hostel,,1,29.0,4,Wet Season,0,217313
+2016,7,India,Medical,Colombo,Budget Hotel,25.0,1,44.0,1,Dry Season,0,175632
+2015,8,Other,Cultural,Kandy,3-Star,8.0,6,31.0,4,Dry Season,0,150820
+2019,4,India,VFR,Kandy,4-Star,10.0,1,54.0,0,Wet Season,1,35246
+2021,1,China,Shopping,Gampaha,Budget Hotel,3.0,2,,0,Wet Season,1,974
+2017,3,USA,Cultural,Polonnaruwa,Boutique,9.0,5,35.0,1,Wet Season,0,197404
+2020,3,Canada,Cultural,Sigiriya,Eco-Lodge,8.0,2,47.0,0,Wet Season,1,14870
+2023,6,India,Business,Colombo,Homestay,3.0,5,,2,Dry Season,0,99133
+2019,1,Maldives,Leisure,Bentota,Boutique,5.0,2,28.0,0,Wet Season,0,204344
+2015,11,India,Medical,Colombo,Eco-Lodge,6.0,2,51.0,4,Wet Season,0,154693
+2023,4,Australia,VFR,Gampaha,Hostel,6.0,1,33.0,0,Wet Season,0,110185
+2017,12,USA,Cultural,Anuradhapura,Homestay,7.0,1,31.0,0,Wet Season,0,220811
+2022,2,Japan,Leisure,Mirissa,Homestay,9.0,1,18.0,1,Wet Season,0,69512
+2016,10,United Kingdom,Cultural,Polonnaruwa,5-Star,9.0,4,43.0,0,Wet Season,0,134710
+2019,4,Other,Adventure,Sigiriya,Eco-Lodge,,2,36.0,0,Wet Season,1,33218
+2019,11,Other,Leisure,Mirissa,5-Star,11.0,2,24.0,1,Wet Season,0,165584
+2015,10,India,Medical,Colombo,Eco-Lodge,6.0,3,45.0,0,Wet Season,0,129423
+2019,9,United Kingdom,Cultural,Kandy,4-Star,4.0,1,45.0,0,Dry Season,0,123744
+2023,5,Other,Cultural,Kandy,Boutique,5.0,1,,0,Dry Season,0,95546
+2018,10,Netherlands,Cultural,Polonnaruwa,Homestay,7.0,2,33.0,0,Wet Season,0,158367
+2023,5,Other,Leisure,Mirissa,Boutique,5.0,1,26.0,3,Dry Season,0,107256
+2018,2,Switzerland,Leisure,Galle,Boutique,10.0,5,26.0,0,Wet Season,0,218506
+2018,10,United Kingdom,Adventure,Nuwara Eliya,Homestay,13.0,3,,1,Wet Season,0,160989
+2016,1,India,Business,Colombo,5-Star,4.0,3,,0,Wet Season,0,214828
+2018,4,USA,Leisure,Colombo,5-Star,8.0,1,39.0,3,Wet Season,0,166207
+2016,7,United Kingdom,Adventure,Nuwara Eliya,Homestay,10.0,2,54.0,1,Dry Season,0,178111
+2017,1,China,Group Tour,Kandy,Hostel,6.0,1,50.0,0,Wet Season,0,230536
+2020,7,China,Leisure,Galle,Hostel,6.0,2,27.0,0,Dry Season,1,827
+2017,7,Germany,Leisure,Galle,Homestay,11.0,2,52.0,1,Dry Season,0,166849
+2015,5,Other,Leisure,Bentota,Boutique,8.0,2,22.0,0,Dry Season,0,118932
+2017,7,India,Leisure,Mirissa,Homestay,6.0,2,40.0,1,Dry Season,0,174364
+2022,1,Other,Adventure,Knuckles Range,3-Star,8.0,4,28.0,1,Wet Season,0,77541
+2020,3,Other,Leisure,Bentota,5-Star,10.0,2,46.0,1,Wet Season,1,14428
+2023,5,Canada,Cultural,Anuradhapura,Budget Hotel,6.0,2,21.0,0,Dry Season,0,95606
+2023,7,France,Eco-Tourism,Wilpattu,Boutique,7.0,3,31.0,0,Dry Season,0,115824
+2016,12,India,Business,Gampaha,5-Star,3.0,2,44.0,0,Wet Season,0,256855
+2019,12,Australia,Leisure,Colombo,4-Star,8.0,5,21.0,0,Wet Season,0,230719
+2018,1,United Kingdom,Leisure,Galle,Homestay,5.0,2,25.0,3,Wet Season,0,250207
+2017,12,Other,Adventure,Sigiriya,Boutique,9.0,1,32.0,0,Wet Season,0,265383
+2015,10,Other,Leisure,Bentota,3-Star,8.0,2,18.0,0,Wet Season,0,113717
+2023,11,Russia,Leisure,Galle,Boutique,,6,27.0,0,Wet Season,0,122263
+2017,6,Canada,Leisure,Colombo,4-Star,9.0,4,35.0,4,Dry Season,0,154739
+2023,1,Netherlands,Eco-Tourism,Wilpattu,Hostel,11.0,1,39.0,0,Wet Season,0,162208
+2019,11,Japan,Leisure,Bentota,Budget Hotel,11.0,2,30.0,2,Wet Season,0,166573
+2017,11,India,Leisure,Bentota,Homestay,13.0,6,34.0,0,Wet Season,0,175344
+2016,6,Australia,Leisure,Mirissa,Eco-Lodge,,3,57.0,0,Dry Season,0,131218
+2016,11,Other,Cultural,Kandy,4-Star,4.0,4,41.0,0,Wet Season,0,174972
+2019,3,India,VFR,Colombo,Budget Hotel,8.0,1,44.0,2,Wet Season,0,166915
+2017,1,USA,Business,Gampaha,3-Star,5.0,2,34.0,0,Wet Season,0,206118
+2022,4,India,Business,Colombo,Eco-Lodge,5.0,5,,4,Wet Season,0,54469
+2021,10,United Kingdom,Cultural,Polonnaruwa,3-Star,9.0,1,44.0,0,Wet Season,1,4571
+2015,1,India,VFR,Kandy,4-Star,7.0,3,18.0,0,Wet Season,0,186974
+2019,11,France,Leisure,Galle,Homestay,13.0,1,59.0,2,Wet Season,0,162989
+2020,10,France,Leisure,Mirissa,Eco-Lodge,,3,54.0,1,Wet Season,1,1813
+2017,12,Netherlands,Leisure,Colombo,Budget Hotel,10.0,1,41.0,1,Wet Season,0,255684
+2023,5,United Kingdom,Adventure,Ella,Hostel,11.0,3,38.0,1,Dry Season,0,96235
+2023,6,Other,Adventure,Knuckles Range,4-Star,,2,18.0,4,Dry Season,0,106009
+2018,8,France,Eco-Tourism,Wilpattu,4-Star,11.0,2,33.0,0,Dry Season,0,200760
+2019,4,Germany,Cultural,Anuradhapura,3-Star,7.0,2,33.0,1,Wet Season,1,36536
+2022,1,India,Business,Colombo,4-Star,5.0,3,32.0,1,Wet Season,0,78979
+2023,7,USA,Leisure,Galle,Eco-Lodge,13.0,2,59.0,4,Dry Season,0,127195
+2019,2,Other,Adventure,Nuwara Eliya,Budget Hotel,16.0,5,46.0,0,Wet Season,0,201389
+2017,5,Other,Adventure,Sigiriya,5-Star,17.0,4,24.0,0,Dry Season,0,131425
+2016,6,Other,Leisure,Galle,Budget Hotel,8.0,4,22.0,1,Dry Season,0,142065
+2020,10,United Kingdom,Leisure,Bentota,Homestay,7.0,5,44.0,0,Wet Season,1,1856
+2016,6,Other,Leisure,Colombo,Eco-Lodge,7.0,2,40.0,0,Dry Season,0,133946
+2021,2,France,Eco-Tourism,Sinharaja,Eco-Lodge,5.0,2,22.0,1,Wet Season,1,874
+2017,2,USA,Cultural,Kandy,Hostel,9.0,3,35.0,1,Wet Season,0,200871
+2016,12,Italy,Leisure,Mirissa,3-Star,5.0,2,65.0,0,Wet Season,0,228016
+2017,12,Other,Leisure,Mirissa,5-Star,5.0,1,38.0,2,Wet Season,0,227128
+2016,4,France,Leisure,Bentota,Eco-Lodge,10.0,2,29.0,0,Wet Season,0,155350
+2015,2,United Kingdom,Honeymoon,Mirissa,Budget Hotel,,1,21.0,2,Wet Season,0,179449
+2017,9,Germany,Adventure,Ella,Homestay,16.0,1,37.0,0,Dry Season,0,128428
+2019,8,Japan,Leisure,Mirissa,5-Star,9.0,1,25.0,3,Dry Season,0,149169
+2016,6,United Kingdom,Honeymoon,Mirissa,Budget Hotel,11.0,3,38.0,1,Dry Season,0,137893
+2021,11,United Kingdom,Honeymoon,Galle,Homestay,,2,51.0,3,Wet Season,0,8141
+2021,1,Other,Adventure,Ella,Hostel,12.0,2,63.0,0,Wet Season,1,1019
+2016,9,Maldives,Business,Colombo,4-Star,3.0,1,25.0,0,Dry Season,0,133434
+2022,5,India,VFR,Colombo,3-Star,12.0,1,49.0,0,Dry Season,0,45050
+2020,2,France,Leisure,Mirissa,3-Star,,1,20.0,0,Wet Season,0,51698
+2017,10,Russia,Leisure,Galle,Boutique,10.0,2,36.0,4,Wet Season,0,157223
+2015,6,Indai,Business,Colombo,5-Star,3.0,2,,1,Dry Season,0,122547
+2017,2,France,Leisure,Mirissa,Eco-Lodge,13.0,2,40.0,0,Wet Season,0,199908
+2019,1,Other,Cultural,Kandy,Eco-Lodge,6.0,2,52.0,0,Wet Season,0,204386
+2018,6,USA,Leisure,Bentota,3-Star,10.0,1,24.0,1,Dry Season,0,164904
+2018,6,India,VFR,Colombo,Budget Hotel,10.0,4,51.0,1,Dry Season,0,166150
+2023,12,Australia,Leisure,Colombo,5-Star,13.0,3,36.0,1,Wet Season,0,160374
+2016,5,China,Leisure,Mirissa,4-Star,8.0,1,38.0,0,Dry Season,0,133823
+2016,4,Maldives,Business,Colombo,Hostel,,6,18.0,2,Wet Season,0,144731
+2020,12,Russia,Leisure,Mirissa,4-Star,13.0,1,67.0,1,Wet Season,1,8520
+2020,12,Switzerland,Eco-Tourism,Sinharaja,4-Star,8.0,2,,0,Wet Season,1,8857
+2018,12,Other,Adventure,Sigiriya,Eco-Lodge,7.0,3,48.0,0,Wet Season,0,270415
+2019,10,Australia,VFR,Colombo,Budget Hotel,7.0,2,39.0,0,Wet Season,0,139092
+2017,12,India,Medical,Colombo,Eco-Lodge,12.0,1,47.0,0,Wet Season,0,255682
+2015,1,Maldives,Business,Colombo,5-Star,2.0,2,47.0,0,Wet Season,0,209012
+2015,10,India,Business,Gampaha,Boutique,3.0,2,29.0,0,Wet Season,0,119446
+2021,3,Other,Cultural,Polonnaruwa,Boutique,,2,33.0,1,Wet Season,1,850
+2015,2,China,Group Tour,Colombo,Boutique,9.0,2,30.0,0,Wet Season,0,176323
+2019,2,Other,Leisure,Galle,Hostel,13.0,5,36.0,4,Wet Season,0,194485
+2019,8,Maldives,Business,Colombo,Hostel,3.0,2,39.0,1,Dry Season,0,156980
+2015,12,France,Leisure,Mirissa,Hostel,7.0,2,63.0,0,Wet Season,0,195113
+2016,3,USA,Cultural,Sigiriya,5-Star,,1,55.0,1,Wet Season,0,180918
+2016,1,USA,Leisure,Mirissa,Eco-Lodge,11.0,2,37.0,0,Wet Season,0,227598
+2017,7,Maldives,Transit,Colombo,3-Star,1.0,3,48.0,0,Dry Season,0,177939
+2023,5,Germany,Leisure,Bentota,4-Star,10.0,4,60.0,2,Dry Season,0,91640
+2019,9,United Kingdom,Leisure,Bentota,Eco-Lodge,,2,28.0,1,Dry Season,0,126235
+2023,1,Canada,Leisure,Galle,5-Star,,4,44.0,2,Wet Season,0,148974
+2017,6,Other,Leisure,Colombo,Eco-Lodge,10.0,2,,4,Dry Season,0,144229
+2017,6,United Kingdom,Honeymoon,Bentota,Hostel,12.0,1,,1,Dry Season,0,138877
+2018,12,India,Business,Colombo,Hostel,3.0,2,44.0,2,Wet Season,0,263712
+2023,12,India,VFR,Gampaha,3-Star,18.0,2,37.0,1,Wet Season,0,173229
+2018,2,Australia,Adventure,Knuckles Range,Boutique,7.0,2,35.0,4,Wet Season,0,251867
+2018,1,Other,Adventure,Sigiriya,Hostel,7.0,5,18.0,3,Wet Season,0,243260
+2022,2,India,VFR,Colombo,4-Star,20.0,1,68.0,0,Wet Season,0,68292
+2019,1,Maldives,Leisure,Bentota,Eco-Lodge,13.0,2,30.0,1,Wet Season,0,197280
+2018,3,United Kingdom,Honeymoon,Bentota,Budget Hotel,12.0,1,25.0,0,Wet Season,0,207684
+2022,5,United Kingdom,Leisure,Mirissa,5-Star,11.0,2,38.0,1,Dry Season,0,46347
+2018,12,Netherlands,Cultural,Sigiriya,Hostel,9.0,3,22.0,1,Wet Season,0,273479
+2017,12,South Korea,Cultural,Polonnaruwa,5-Star,7.0,6,29.0,0,Wet Season,0,242724
+2018,1,South Korea,Leisure,Mirissa,Budget Hotel,10.0,1,32.0,0,Wet Season,0,239099
+2015,10,Other,Leisure,Bentota,3-Star,13.0,2,38.0,0,Wet Season,0,118831
+2023,2,Australia,VFR,Colombo,Homestay,12.0,2,40.0,1,Wet Season,0,146362
+2022,6,Other,Cultural,Kandy,5-Star,4.0,2,21.0,3,Dry Season,0,52100
+2023,3,India,VFR,Kandy,Boutique,8.0,4,21.0,2,Wet Season,0,143049
+2016,2,India,VFR,Colombo,Boutique,17.0,3,52.0,2,Wet Season,0,200081
+2019,7,United Kingdom,Cultural,Anuradhapura,Budget Hotel,9.0,3,49.0,2,Dry Season,0,160232
+2016,10,Japan,Cultural,Polonnaruwa,4-Star,5.0,5,43.0,3,Wet Season,0,149356
+2017,11,Other,Adventure,Knuckles Range,Eco-Lodge,11.0,2,45.0,1,Wet Season,0,182941
+2023,6,Netherlands,Cultural,Polonnaruwa,Budget Hotel,6.0,1,23.0,4,Dry Season,0,100057
+2018,2,Other,Cultural,Sigiriya,4-Star,8.0,3,26.0,0,Wet Season,0,236041
+2023,2,Japan,Eco-Tourism,Yala,Eco-Lodge,8.0,2,49.0,4,Wet Season,0,153770
+2023,7,Maldives,Business,Gampaha,4-Star,4.0,2,46.0,0,Dry Season,0,122366
+2018,12,Indai,Medical,Colombo,Homestay,,1,48.0,0,Wet Season,0,283553
+2023,7,India,Medical,Colombo,Budget Hotel,11.0,1,18.0,1,Dry Season,0,125298
+2017,3,Germany,Cultural,Polonnaruwa,Boutique,8.0,1,35.0,0,Wet Season,0,212934
+2017,2,USA,Business,Colombo,Homestay,5.0,2,34.0,0,Wet Season,0,203911
+2016,6,Maldives,Transit,Colombo,3-Star,2.0,2,58.0,0,Dry Season,0,150231
+2015,2,Russia,Leisure,Bentota,Boutique,12.0,1,43.0,0,Wet Season,0,158670
+2015,7,Maldives,Leisure,Mirissa,Hostel,5.0,4,39.0,2,Dry Season,0,149423
+2016,3,Canada,Cultural,Anuradhapura,Homestay,7.0,2,51.0,1,Wet Season,0,176925
+2017,5,Canada,Adventure,Sigiriya,4-Star,7.0,1,56.0,0,Dry Season,0,131654
+2016,11,Netherlands,Cultural,Kandy,5-Star,9.0,1,49.0,0,Wet Season,0,163659
+2019,8,Other,Leisure,Bentota,Eco-Lodge,11.0,1,63.0,4,Dry Season,0,142491
+2015,8,India,Business,Gampaha,Eco-Lodge,2.0,2,50.0,0,Dry Season,0,153402
+2019,3,China,Group Tour,Sigiriya,Homestay,,3,34.0,1,Wet Season,0,186188
+2015,10,Australia,VFR,Colombo,3-Star,15.0,2,22.0,0,Wet Season,0,125682
+2019,2,India,Medical,Colombo,3-Star,6.0,1,,0,Wet Season,0,182300
+2018,12,Indai,Leisure,Colombo,Boutique,5.0,3,46.0,1,Wet Season,0,261305
+2018,3,Other,Cultural,Anuradhapura,Boutique,8.0,2,43.0,1,Wet Season,0,217049
+2020,1,India,Leisure,Colombo,Hostel,8.0,2,21.0,4,Wet Season,0,50359
+2021,7,South Korea,Group Tour,Colombo,3-Star,8.0,1,50.0,0,Dry Season,1,1610
+2019,11,China,Leisure,Mirissa,5-Star,8.0,1,41.0,0,Wet Season,0,165860
+2023,3,Other,Leisure,Colombo,Eco-Lodge,13.0,5,54.0,0,Wet Season,0,146581
+2015,5,China,Shopping,Colombo,Boutique,5.0,5,55.0,0,Dry Season,0,120466
+2018,10,Maldives,Transit,Colombo,Eco-Lodge,,1,54.0,1,Wet Season,0,152668
+2016,7,United Kingdom,Cultural,Kandy,4-Star,9.0,4,37.0,0,Dry Season,0,171957
+2017,12,Other,Leisure,Colombo,3-Star,7.0,5,32.0,1,Wet Season,0,251231
+2023,1,India,Business,Gampaha,Eco-Lodge,2.0,2,34.0,3,Wet Season,0,159195
+2021,7,Australia,Leisure,Colombo,Boutique,13.0,4,29.0,0,Dry Season,1,1672
+2019,1,Other,Leisure,Mirissa,5-Star,7.0,2,28.0,0,Wet Season,0,219552
+2018,4,United Kingdom,Honeymoon,Bentota,Hostel,,2,18.0,0,Wet Season,0,180457
+2017,1,South Korea,Leisure,Bentota,Eco-Lodge,13.0,6,41.0,1,Wet Season,0,233512
+2023,8,United Kingdm,Honeymoon,Galle,4-Star,16.0,2,28.0,1,Dry Season,0,117152
+2018,3,Russia,Honeymoon,Galle,4-Star,,2,18.0,1,Wet Season,0,209908
+2016,3,United Kingdom,Leisure,Mirissa,Eco-Lodge,13.0,1,47.0,0,Wet Season,0,189938
+2018,11,Other,Adventure,Sigiriya,Hostel,11.0,3,40.0,0,Wet Season,0,195688
+2023,4,India,Medical,Colombo,5-Star,5.0,2,21.0,0,Wet Season,0,118290
+2018,4,Other,Leisure,Galle,Eco-Lodge,7.0,2,28.0,0,Wet Season,0,189573
+2019,4,Other,Leisure,Mirissa,3-Star,5.0,2,,0,Wet Season,1,34414
+2021,1,Other,Leisure,Bentota,Boutique,6.0,2,34.0,0,Wet Season,1,1043
+2018,1,Other,Leisure,Bentota,Budget Hotel,11.0,2,31.0,1,Wet Season,0,221762
+2023,6,China,Group Tour,Galle,4-Star,8.0,4,22.0,0,Dry Season,0,102230
+2019,3,United Kingdom,Leisure,Bentota,5-Star,13.0,3,60.0,0,Wet Season,0,184606
+2023,12,Australia,Adventure,Sigiriya,3-Star,16.0,2,29.0,1,Wet Season,0,172931
+2015,6,Other,Adventure,Knuckles Range,Boutique,13.0,4,25.0,0,Dry Season,0,122190
+2018,11,Maldives,Leisure,Galle,Hostel,8.0,5,45.0,0,Wet Season,0,193678
+2023,3,United Kingdm,Honeymoon,Nuwara Eliya,Hostel,16.0,6,,1,Wet Season,0,142677
+2016,10,India,Leisure,Bentota,Homestay,5.0,2,45.0,3,Wet Season,0,148344
+2015,5,India,VFR,Colombo,Hostel,11.0,2,,0,Dry Season,0,113506
+2018,2,Germany,Cultural,Kandy,Eco-Lodge,9.0,2,48.0,2,Wet Season,0,232896
+2017,4,United Kingdom,Honeymoon,Mirissa,Hostel,9.0,1,54.0,0,Wet Season,0,149694
+2023,6,China,Shopping,Colombo,Budget Hotel,2.0,4,42.0,3,Dry Season,0,99841
+2018,9,Other,Leisure,Galle,Hostel,5.0,1,26.0,0,Dry Season,0,159147
+2019,5,United Kingdom,Cultural,Kandy,Hostel,8.0,3,24.0,1,Dry Season,1,45560
+2023,5,India,VFR,Gampaha,Eco-Lodge,13.0,3,18.0,2,Dry Season,0,89556
+2016,6,Maldives,Transit,Colombo,Eco-Lodge,1.0,1,29.0,0,Dry Season,0,146311
+2015,8,Australia,VFR,Colombo,Boutique,17.0,2,18.0,0,Dry Season,0,133702
+2017,11,India,Medical,Colombo,Budget Hotel,28.0,3,40.0,0,Wet Season,0,183648
+2016,7,Other,Leisure,Galle,Boutique,8.0,2,37.0,1,Dry Season,0,170271
+2015,11,India,VFR,Gampaha,5-Star,11.0,3,32.0,1,Wet Season,0,148638
+2016,11,Other,Adventure,Sigiriya,Hostel,17.0,1,34.0,1,Wet Season,0,179916
+2023,8,Germany,Adventure,Knuckles Range,Boutique,13.0,2,18.0,0,Dry Season,0,122705
+2020,1,India,Business,Gampaha,Homestay,4.0,2,33.0,4,Wet Season,0,55500
+2019,1,USA,Leisure,Mirissa,4-Star,9.0,6,29.0,1,Wet Season,0,200671
+2015,11,Maldives,Transit,Colombo,Hostel,,3,61.0,0,Wet Season,0,146906
+2015,8,Germany,Cultural,Kandy,Hostel,7.0,5,31.0,1,Dry Season,0,133115
+2015,1,Other,Cultural,Kandy,Hostel,5.0,3,42.0,4,Wet Season,0,191810
+2016,2,India,Medical,Colombo,4-Star,13.0,1,38.0,0,Wet Season,0,205945
+2017,9,India,Business,Colombo,Eco-Lodge,3.0,1,,1,Dry Season,0,141945
+2019,5,Australia,Adventure,Sigiriya,Budget Hotel,7.0,6,23.0,1,Dry Season,1,45621
+2017,1,Switzerland,Eco-Tourism,Knuckles Range,Eco-Lodge,,4,58.0,2,Wet Season,0,202617
+2018,3,USA,Cultural,Kandy,3-Star,9.0,1,36.0,4,Wet Season,0,198887
+2015,8,China,Leisure,Galle,Homestay,12.0,1,34.0,3,Dry Season,0,135537
+2019,1,Maldives,Leisure,Colombo,4-Star,12.0,2,40.0,1,Wet Season,0,197583
+2016,11,China,Shopping,Gampaha,Homestay,4.0,2,24.0,0,Wet Season,0,177103
+2019,1,Germany,Leisure,Mirissa,Boutique,,1,37.0,0,Wet Season,0,196772
+2018,8,Germany,Eco-Tourism,Sinharaja,4-Star,13.0,2,39.0,0,Dry Season,0,186637
+2019,11,India,Leisure,Galle,Boutique,13.0,3,48.0,0,Wet Season,0,158380
+2018,3,USA,Leisure,Mirissa,4-Star,,2,33.0,0,Wet Season,0,219474
+2015,4,USA,Leisure,Bentota,5-Star,6.0,5,,0,Wet Season,0,143102
+2022,8,India,VFR,Gampaha,Homestay,16.0,2,61.0,0,Dry Season,0,60053
+2023,9,Other,Cultural,Anuradhapura,Budget Hotel,4.0,2,28.0,0,Dry Season,0,97148
+2018,3,India,Leisure,Galle,Hostel,12.0,2,32.0,0,Wet Season,0,213761
+2019,7,Maldives,Business,Gampaha,Homestay,3.0,2,43.0,0,Dry Season,0,158700
+2016,5,Germany,Eco-Tourism,Sinharaja,Homestay,8.0,3,46.0,0,Dry Season,0,133116
+2022,9,India,Leisure,Colombo,Eco-Lodge,,4,38.0,0,Dry Season,0,50150
+2018,8,Germany,Adventure,Knuckles Range,5-Star,15.0,1,40.0,0,Dry Season,0,183577
+2017,7,Maldives,Leisure,Galle,4-Star,,6,42.0,0,Dry Season,0,166357
+2018,3,India,VFR,Kandy,3-Star,19.0,5,20.0,0,Wet Season,0,227492
+2018,8,Russia,Beach,Mirissa,Homestay,6.0,1,52.0,1,Dry Season,0,196166
+2019,11,Netherlands,Leisure,Bentota,Eco-Lodge,13.0,1,,0,Wet Season,0,166487
+2017,4,Germany,Leisure,Mirissa,3-Star,11.0,4,32.0,3,Wet Season,0,149718
+2015,1,Other,Leisure,Mirissa,Eco-Lodge,9.0,3,,0,Wet Season,0,177455
+2022,2,Other,Cultural,Anuradhapura,4-Star,8.0,4,55.0,0,Wet Season,0,71600
+2021,3,Australia,Leisure,Galle,Homestay,12.0,3,65.0,0,Wet Season,1,942
+2018,9,United Kingdom,Adventure,Knuckles Range,4-Star,10.0,2,38.0,0,Dry Season,0,151861
+2015,1,Switzerland,Leisure,Bentota,Hostel,7.0,3,,0,Wet Season,0,167979
+2015,8,United Kingdom,Honeymoon,Nuwara Eliya,Homestay,19.0,1,51.0,0,Dry Season,0,152492
+2018,1,Other,Adventure,Nuwara Eliya,Homestay,16.0,3,41.0,0,Wet Season,0,260170
+2018,8,Maldives,Business,Colombo,Budget Hotel,4.0,5,36.0,0,Dry Season,0,193995
+2019,7,Australia,Adventure,Nuwara Eliya,Homestay,10.0,2,26.0,1,Dry Season,0,171136
+2019,7,Canada,Cultural,Anuradhapura,5-Star,5.0,2,21.0,0,Dry Season,0,170263
+2016,11,USA,Business,Colombo,5-Star,3.0,1,30.0,2,Wet Season,0,164644
+2018,12,Other,Leisure,Bentota,Hostel,5.0,5,43.0,0,Wet Season,0,275735
+2016,8,Other,Adventure,Ella,Boutique,17.0,2,50.0,0,Dry Season,0,166479
+2016,12,Other,Leisure,Mirissa,3-Star,10.0,1,29.0,0,Wet Season,0,214892
+2018,10,India,Medical,Colombo,4-Star,6.0,1,25.0,1,Wet Season,0,159042
+2023,3,China,Leisure,Colombo,Budget Hotel,9.0,5,28.0,0,Wet Season,0,146615
+2017,12,Other,Leisure,Colombo,4-Star,6.0,1,34.0,0,Wet Season,0,255719
+2019,7,India,Business,Gampaha,Hostel,,2,,0,Dry Season,0,152433
+2018,12,Canada,Adventure,Ella,Boutique,7.0,6,18.0,1,Wet Season,0,259029
+2018,9,United Kingdom,Adventure,Nuwara Eliya,Eco-Lodge,11.0,1,47.0,2,Dry Season,0,142690
+2017,11,Other,Adventure,Knuckles Range,3-Star,8.0,1,45.0,0,Wet Season,0,176564
+2015,1,Other,Cultural,Kandy,Budget Hotel,8.0,3,50.0,0,Wet Season,0,192097
+2018,5,United Kingdom,Adventure,Sigiriya,Eco-Lodge,8.0,2,,0,Dry Season,0,153780
+2018,4,India,VFR,Gampaha,4-Star,20.0,1,25.0,0,Wet Season,0,165770
+2022,1,Japan,Cultural,Kandy,Eco-Lodge,7.0,2,51.0,2,Wet Season,0,69831
+2018,1,United Kingdom,Honeymoon,Bentota,Budget Hotel,20.0,5,51.0,0,Wet Season,0,226958
+2018,6,Maldives,Transit,Colombo,Hostel,,1,29.0,0,Dry Season,0,158773
+2023,5,China,Shopping,Colombo,Hostel,4.0,6,47.0,1,Dry Season,0,91288
+2019,11,France,Cultural,Polonnaruwa,Budget Hotel,5.0,1,46.0,1,Wet Season,0,154783
+2017,2,United Kingdom,Honeymoon,Galle,4-Star,19.0,1,29.0,1,Wet Season,0,196705
+2017,1,India,Medical,Colombo,5-Star,16.0,4,25.0,0,Wet Season,0,211375
+2022,10,Other,Leisure,Galle,4-Star,10.0,3,32.0,0,Wet Season,0,51993
+2015,9,Australia,Adventure,Knuckles Range,Boutique,12.0,1,29.0,0,Dry Season,0,119942
+2023,6,Netherlands,Cultural,Anuradhapura,Eco-Lodge,6.0,1,37.0,1,Dry Season,0,96325
+2017,8,Other,Cultural,Sigiriya,Eco-Lodge,4.0,1,20.0,0,Dry Season,0,175127
+2017,11,India,Business,Gampaha,4-Star,,1,25.0,1,Wet Season,0,191389
+2015,12,Other,Adventure,Nuwara Eliya,Boutique,15.0,1,35.0,0,Wet Season,0,219004
+2023,1,Other,Leisure,Bentota,Hostel,10.0,1,37.0,0,Wet Season,0,160915
+2015,11,China,Group Tour,Kandy,Homestay,5.0,1,31.0,1,Wet Season,0,144300
+2020,9,India,VFR,Colombo,4-Star,10.0,2,39.0,0,Dry Season,1,605
+2018,11,China,Leisure,Bentota,Hostel,,6,,0,Wet Season,0,191896
+2015,9,Other,Cultural,Polonnaruwa,Homestay,5.0,2,41.0,0,Dry Season,0,107667
+2019,3,Maldives,Business,Gampaha,5-Star,5.0,3,55.0,2,Wet Season,0,174046
+2017,2,Canada,Cultural,Sigiriya,Hostel,5.0,2,21.0,2,Wet Season,0,229555
+2016,12,Canada,Cultural,Kandy,4-Star,5.0,1,46.0,0,Wet Season,0,256726
+2018,11,Germany,Leisure,Bentota,Budget Hotel,13.0,2,34.0,3,Wet Season,0,192291
+2016,4,USA,Business,Colombo,Eco-Lodge,3.0,3,41.0,0,Wet Season,0,159208
+2023,2,Russia,Leisure,Galle,Hostel,8.0,5,40.0,3,Wet Season,0,145106
+2022,6,Germany,Adventure,Sigiriya,4-Star,8.0,2,18.0,1,Dry Season,0,48718
+2022,10,United Kingdom,Leisure,Colombo,4-Star,5.0,1,27.0,0,Wet Season,0,52017
+2016,5,Italy,Leisure,Bentota,Homestay,11.0,1,39.0,0,Dry Season,0,138272
+2019,6,India,Leisure,Colombo,3-Star,9.0,1,35.0,1,Dry Season,0,66332
+2017,9,India,VFR,Gampaha,Hostel,14.0,3,,2,Dry Season,0,140179
+2019,5,South Korea,Leisure,Galle,5-Star,8.0,1,31.0,4,Dry Season,1,47029
+2023,6,USA,Leisure,Colombo,5-Star,10.0,2,25.0,0,Dry Season,0,105074
+2018,3,Japan,Cultural,Kandy,Boutique,5.0,2,32.0,0,Wet Season,0,198799
+2018,9,Other,Leisure,Colombo,Boutique,6.0,1,48.0,2,Dry Season,0,155614
+2015,12,United Kingdom,Adventure,Nuwara Eliya,4-Star,7.0,2,43.0,0,Wet Season,0,228330
+2017,7,Other,Adventure,Nuwara Eliya,5-Star,11.0,2,41.0,0,Dry Season,0,167456
+2019,12,Canada,Adventure,Knuckles Range,3-Star,13.0,5,63.0,0,Wet Season,0,206763
+2018,6,Germany,Leisure,Bentota,3-Star,10.0,3,59.0,1,Dry Season,0,149003
+2017,8,United Kingdom,Cultural,Kandy,4-Star,7.0,3,36.0,0,Dry Season,0,171397
+2017,3,Other,Cultural,Anuradhapura,Hostel,,3,36.0,3,Wet Season,0,203909
+2016,3,Australia,Adventure,Nuwara Eliya,Eco-Lodge,10.0,4,55.0,1,Wet Season,0,187502
+2018,8,India,VFR,Gampaha,Hostel,12.0,6,62.0,0,Dry Season,0,188723
+2017,7,India,Business,Colombo,Budget Hotel,3.0,1,35.0,0,Dry Season,0,167194
+2019,8,Other,Adventure,Sigiriya,3-Star,12.0,1,31.0,1,Dry Season,0,158486
+2019,4,Other,Cultural,Anuradhapura,3-Star,8.0,2,35.0,0,Wet Season,1,32886
+2019,1,Indai,Leisure,Galle,4-Star,13.0,2,51.0,3,Wet Season,0,196142
+2023,4,United Kingdom,Leisure,Mirissa,Eco-Lodge,9.0,2,53.0,1,Wet Season,0,105685
+2019,11,India,Business,Gampaha,5-Star,3.0,2,42.0,1,Wet Season,0,159045
+2018,11,Maldives,Leisure,Bentota,Budget Hotel,9.0,1,26.0,3,Wet Season,0,186630
+2015,6,Other,Cultural,Kandy,Eco-Lodge,4.0,6,35.0,2,Dry Season,0,125891
+2018,7,China,Shopping,Gampaha,Boutique,4.0,3,41.0,0,Dry Season,0,186923
+2019,11,Canada,Cultural,Polonnaruwa,Hostel,8.0,2,43.0,0,Wet Season,0,157005
+2015,7,Other,Cultural,Anuradhapura,Budget Hotel,8.0,1,44.0,2,Dry Season,0,142594
+2017,6,Germany,Leisure,Bentota,3-Star,11.0,3,26.0,0,Dry Season,0,150540
+2022,8,France,Leisure,Bentota,Budget Hotel,10.0,4,57.0,4,Dry Season,0,62651
+2015,6,India,VFR,Colombo,Eco-Lodge,8.0,1,31.0,0,Dry Season,0,121459
+2017,9,United Kingdom,Adventure,Ella,Homestay,10.0,5,34.0,2,Dry Season,0,124939
+2015,11,Germany,Cultural,Anuradhapura,Homestay,5.0,1,58.0,0,Wet Season,0,159539
+2019,6,Netherlands,Leisure,Bentota,5-Star,7.0,4,21.0,0,Dry Season,0,66414
+2018,1,India,Leisure,Colombo,3-Star,9.0,2,54.0,4,Wet Season,0,255202
+2023,9,Maldives,Transit,Colombo,Eco-Lodge,2.0,2,46.0,0,Dry Season,0,102842
+2016,2,Germany,Cultural,Anuradhapura,3-Star,,2,38.0,0,Wet Season,0,192914
+2015,1,Japan,Eco-Tourism,Knuckles Range,5-Star,6.0,2,18.0,1,Wet Season,0,176573
+2022,11,Russia,Honeymoon,Nuwara Eliya,Hostel,10.0,4,36.0,1,Wet Season,0,61846
+2017,9,Other,Leisure,Mirissa,4-Star,7.0,2,18.0,0,Dry Season,0,126675
+2018,4,Maldives,Business,Gampaha,4-Star,4.0,3,31.0,0,Wet Season,0,162624
+2018,1,India,Leisure,Galle,Budget Hotel,9.0,5,23.0,1,Wet Season,0,221787
+2018,6,United Kingdom,Adventure,Knuckles Range,Hostel,12.0,1,,0,Dry Season,0,170851
+2016,12,India,VFR,Kandy,Budget Hotel,9.0,1,41.0,0,Wet Season,0,244818
+2018,11,India,Leisure,Mirissa,Hostel,8.0,1,,1,Wet Season,0,201521
+2020,3,France,Leisure,Mirissa,Eco-Lodge,11.0,2,33.0,2,Wet Season,1,12703
+2019,4,India,VFR,Colombo,Homestay,15.0,1,58.0,1,Wet Season,1,37142
+2019,6,France,Leisure,Colombo,3-Star,11.0,1,24.0,1,Dry Season,0,66901
+2019,3,India,Leisure,Bentota,Budget Hotel,5.0,2,34.0,1,Wet Season,0,173040
+2023,11,Netherlands,Cultural,Polonnaruwa,Homestay,4.0,1,23.0,4,Wet Season,0,126227
+2016,12,Other,Cultural,Sigiriya,Budget Hotel,6.0,2,,1,Wet Season,0,217908
+2018,11,Maldives,Transit,Colombo,Homestay,,4,30.0,0,Wet Season,0,217696
+2017,8,USA,Business,Gampaha,4-Star,4.0,2,32.0,0,Dry Season,0,173830
+2016,3,Other,Adventure,Ella,4-Star,13.0,5,32.0,0,Wet Season,0,185701
+2015,3,Other,Adventure,Nuwara Eliya,Boutique,9.0,1,42.0,0,Wet Season,0,165389
+2016,2,Italy,Honeymoon,Nuwara Eliya,Budget Hotel,12.0,1,33.0,1,Wet Season,0,189188
+2016,6,China,Shopping,Colombo,Boutique,3.0,4,64.0,2,Dry Season,0,132241
+2022,5,Australia,Adventure,Sigiriya,4-Star,7.0,1,47.0,0,Dry Season,0,44180
+2020,2,United Kingdom,Honeymoon,Nuwara Eliya,Boutique,13.0,2,34.0,1,Wet Season,0,53598
+2017,7,India,VFR,Gampaha,4-Star,14.0,1,45.0,0,Dry Season,0,174985
+2015,6,South Korea,Cultural,Sigiriya,5-Star,6.0,3,31.0,0,Dry Season,0,113685
+2021,3,India,Leisure,Galle,Homestay,6.0,1,35.0,1,Wet Season,1,968
+2016,11,Other,Adventure,Ella,Hostel,9.0,2,18.0,0,Wet Season,0,175928
+2019,7,Russia,Leisure,Galle,5-Star,13.0,1,54.0,1,Dry Season,0,150016
+2022,1,India,Leisure,Colombo,4-Star,9.0,2,49.0,1,Wet Season,0,71865
+2017,3,United Kingdom,Adventure,Knuckles Range,Eco-Lodge,17.0,2,52.0,0,Wet Season,0,189908
+2023,6,Other,Cultural,Kandy,3-Star,7.0,1,43.0,1,Dry Season,0,101819
+2021,11,France,Leisure,Bentota,Budget Hotel,,1,29.0,0,Wet Season,0,8633
+2019,5,South Korea,Group Tour,Sigiriya,5-Star,,2,40.0,4,Dry Season,1,41406
+2023,3,India,VFR,Kandy,Boutique,7.0,2,25.0,1,Wet Season,0,130115
+2018,4,Other,Adventure,Knuckles Range,3-Star,8.0,1,,0,Wet Season,0,182898
+2023,6,Other,Cultural,Kandy,5-Star,8.0,3,51.0,0,Dry Season,0,97963
+2017,5,United Kingdom,Cultural,Kandy,Hostel,4.0,1,45.0,0,Dry Season,0,144721
+2017,8,Japan,Leisure,Colombo,4-Star,13.0,1,39.0,0,Dry Season,0,183480
+2018,8,Canada,Leisure,Colombo,Boutique,10.0,2,49.0,0,Dry Season,0,179554
+2018,11,Other,Adventure,Nuwara Eliya,3-Star,11.0,1,47.0,0,Wet Season,0,200150
+2018,2,United Kingdom,Adventure,Ella,Budget Hotel,10.0,1,,0,Wet Season,0,221544
+2023,3,Austraila,VFR,Colombo,Budget Hotel,10.0,1,39.0,0,Wet Season,0,133844
+2018,6,India,Business,Gampaha,3-Star,3.0,1,57.0,0,Dry Season,0,167257
+2023,11,India,Leisure,Colombo,5-Star,5.0,2,,0,Wet Season,0,119460
+2017,11,Netherlands,Cultural,Kandy,4-Star,4.0,2,38.0,1,Wet Season,0,181579
+2018,11,India,Leisure,Galle,Budget Hotel,5.0,2,31.0,0,Wet Season,0,208221
+2018,1,Other,Cultural,Polonnaruwa,3-Star,5.0,3,40.0,2,Wet Season,0,242941
+2016,1,Australia,Adventure,Sigiriya,3-Star,13.0,6,28.0,1,Wet Season,0,241834
+2017,12,United Kingdm,Honeymoon,Bentota,3-Star,16.0,3,46.0,1,Wet Season,0,242367
+2018,4,Other,Adventure,Nuwara Eliya,Budget Hotel,11.0,2,31.0,0,Wet Season,0,164138
+2019,3,India,Leisure,Bentota,4-Star,5.0,2,39.0,0,Wet Season,0,175796
+2018,2,France,Cultural,Sigiriya,3-Star,7.0,3,,0,Wet Season,0,242751
+2019,1,India,Leisure,Colombo,Boutique,12.0,2,33.0,3,Wet Season,0,195867
+2019,11,United Kingdom,Adventure,Knuckles Range,5-Star,16.0,2,51.0,1,Wet Season,0,157384
+2015,4,United Kingdom,Leisure,Galle,Budget Hotel,7.0,6,48.0,1,Wet Season,0,133262
+2023,11,South Korea,Leisure,Bentota,3-Star,5.0,1,45.0,0,Wet Season,0,119333
+2016,2,Canada,Cultural,Anuradhapura,3-Star,7.0,1,48.0,0,Wet Season,0,211009
+2017,1,India,VFR,Colombo,5-Star,18.0,1,18.0,3,Wet Season,0,224114
+2016,3,France,Leisure,Colombo,Eco-Lodge,,3,42.0,1,Wet Season,0,204255
+2018,12,India,Business,Colombo,Hostel,3.0,4,22.0,0,Wet Season,0,262496
+2015,6,Australia,Adventure,Ella,5-Star,16.0,2,49.0,0,Dry Season,0,137977
+2019,3,Other,Adventure,Ella,Boutique,16.0,1,32.0,0,Wet Season,0,163488
+2023,11,Germany,Adventure,Sigiriya,4-Star,15.0,2,47.0,0,Wet Season,0,124951
+2016,7,Other,Leisure,Galle,Boutique,8.0,2,37.0,1,Dry Season,0,170271
+2020,6,Netherlands,Eco-Tourism,Knuckles Range,4-Star,10.0,2,36.0,0,Dry Season,1,643
+2017,1,Switzerland,Eco-Tourism,Yala,Homestay,,2,38.0,0,Wet Season,0,200409
+2015,5,Germany,Eco-Tourism,Yala,Boutique,11.0,3,49.0,0,Dry Season,0,113451
+2019,3,Maldives,Leisure,Galle,Budget Hotel,6.0,2,43.0,0,Wet Season,0,169453
+2016,2,Other,Adventure,Ella,Budget Hotel,8.0,1,58.0,0,Wet Season,0,215276
+2016,4,Netherlands,Leisure,Colombo,Homestay,,4,49.0,0,Wet Season,0,160971
+2018,5,China,Shopping,Gampaha,Hostel,4.0,4,24.0,2,Dry Season,0,156067
+2015,12,Japan,Eco-Tourism,Sinharaja,Eco-Lodge,6.0,1,58.0,1,Wet Season,0,199677
+2016,12,Other,Leisure,Bentota,Homestay,6.0,1,33.0,0,Wet Season,0,220519
+2023,3,Russia,Honeymoon,Mirissa,Homestay,12.0,3,19.0,0,Wet Season,0,134940
+2017,10,Other,Cultural,Kandy,5-Star,4.0,2,18.0,0,Wet Season,0,145493
+2018,9,Other,Cultural,Kandy,Homestay,5.0,2,31.0,0,Dry Season,0,151331
+2018,11,Other,Cultural,Anuradhapura,Homestay,8.0,2,31.0,4,Wet Season,0,198289
+2023,7,China,Shopping,Colombo,Hostel,5.0,5,33.0,0,Dry Season,0,109468
+2017,12,USA,Leisure,Bentota,Homestay,12.0,1,18.0,1,Wet Season,0,230728
+2015,7,France,Leisure,Colombo,Budget Hotel,6.0,2,53.0,0,Dry Season,0,153846
+2017,11,India,Business,Gampaha,Homestay,5.0,2,35.0,1,Wet Season,0,191743
+2016,1,Australia,Adventure,Ella,Hostel,8.0,2,18.0,0,Wet Season,0,222131
+2020,8,Maldives,Leisure,Galle,4-Star,13.0,2,21.0,1,Dry Season,1,832
+2017,7,United Kingdom,Adventure,Knuckles Range,Boutique,15.0,2,44.0,0,Dry Season,0,178999
+2023,3,India,Medical,Colombo,Eco-Lodge,9.0,1,43.0,1,Wet Season,0,139024
+2018,7,Japan,Eco-Tourism,Wilpattu,4-Star,,4,21.0,0,Dry Season,0,181996
+2019,3,India,VFR,Colombo,Boutique,9.0,3,40.0,0,Wet Season,0,178285
+2019,2,United Kingdom,Honeymoon,Mirissa,Homestay,14.0,2,24.0,0,Wet Season,0,190793
+2017,1,Italy,Honeymoon,Bentota,Boutique,16.0,2,34.0,0,Wet Season,0,230082
+2023,12,Other,Leisure,Colombo,4-Star,6.0,2,44.0,0,Wet Season,0,165361
+2023,5,United Kingdom,Adventure,Sigiriya,Hostel,,1,38.0,4,Dry Season,0,101408
+2015,12,India,Leisure,Bentota,Eco-Lodge,9.0,3,42.0,2,Wet Season,0,213860
+2018,9,Japan,Cultural,Anuradhapura,Hostel,7.0,1,42.0,1,Dry Season,0,143945
+2018,12,Russia,Beach,Bentota,Budget Hotel,5.0,3,60.0,1,Wet Season,0,248249
+2019,8,India,Medical,Colombo,Boutique,17.0,1,39.0,1,Dry Season,0,166278
+2020,10,India,VFR,Kandy,Eco-Lodge,12.0,3,52.0,0,Wet Season,1,1648
+2023,11,India,Leisure,Colombo,Eco-Lodge,8.0,2,38.0,0,Wet Season,0,135683
+2017,11,Canada,Leisure,Colombo,Budget Hotel,8.0,2,32.0,0,Wet Season,0,171194
+2019,1,Germany,Eco-Tourism,Wilpattu,Hostel,6.0,4,19.0,0,Wet Season,0,211986
+2019,3,India,Business,Gampaha,4-Star,3.0,1,18.0,0,Wet Season,0,186515
+2015,11,China,Leisure,Bentota,Hostel,10.0,2,22.0,1,Wet Season,0,150010
+2023,7,Other,Adventure,Knuckles Range,3-Star,13.0,1,46.0,3,Dry Season,0,111123
+2017,9,Russia,Beach,Arugam Bay,Budget Hotel,4.0,2,33.0,2,Dry Season,0,135161
+2016,8,Japan,Cultural,Sigiriya,Boutique,7.0,2,50.0,3,Dry Season,0,153264
+2017,3,India,VFR,Kandy,3-Star,16.0,2,30.0,1,Wet Season,0,184742
+2023,5,South Korea,Leisure,Mirissa,Boutique,,3,53.0,0,Dry Season,0,97212
+2022,12,India,Business,Colombo,Budget Hotel,2.0,2,,0,Wet Season,0,86299
+2016,8,India,Leisure,Colombo,Budget Hotel,12.0,3,43.0,4,Dry Season,0,153988
+2020,12,India,Leisure,Bentota,Boutique,6.0,6,34.0,0,Wet Season,1,8768
+2017,12,Other,Cultural,Anuradhapura,Eco-Lodge,8.0,3,45.0,0,Wet Season,0,244457
+2016,6,Other,Adventure,Knuckles Range,5-Star,13.0,1,24.0,0,Dry Season,0,142747
+2022,7,Australia,Leisure,Mirissa,Boutique,8.0,2,55.0,1,Dry Season,0,57999
+2018,9,Other,Leisure,Galle,Homestay,6.0,1,41.0,1,Dry Season,0,145639
+2022,3,China,Shopping,Gampaha,Budget Hotel,5.0,2,18.0,1,Wet Season,0,63639
+2017,9,Japan,Leisure,Galle,Homestay,13.0,1,51.0,3,Dry Season,0,148599
+2023,2,India,Medical,Colombo,Homestay,10.0,3,38.0,4,Wet Season,0,142322
+2016,12,China,Group Tour,Galle,5-Star,7.0,1,44.0,1,Wet Season,0,234096
+2017,5,Italy,Leisure,Mirissa,5-Star,6.0,4,26.0,0,Dry Season,0,150134
+2015,5,Russia,Beach,Mirissa,5-Star,9.0,1,45.0,2,Dry Season,0,114286
+2022,12,France,Cultural,Sigiriya,4-Star,8.0,2,28.0,1,Wet Season,0,76038
+2019,12,Australia,Leisure,Galle,5-Star,5.0,2,,0,Wet Season,0,221569
+2018,11,India,Business,Colombo,Budget Hotel,4.0,3,43.0,1,Wet Season,0,201345
+2016,10,Germany,Eco-Tourism,Sinharaja,Boutique,9.0,1,35.0,0,Wet Season,0,138618
+2018,1,China,Shopping,Gampaha,5-Star,5.0,3,44.0,0,Wet Season,0,243083
+2019,5,Other,Adventure,Sigiriya,3-Star,7.0,2,35.0,0,Dry Season,1,44729
+2019,10,Italy,Honeymoon,Bentota,Eco-Lodge,14.0,3,18.0,1,Wet Season,0,139705
+2018,3,India,Business,Gampaha,4-Star,4.0,2,56.0,1,Wet Season,0,220295
+2015,10,United Kingdom,Honeymoon,Nuwara Eliya,Budget Hotel,8.0,2,42.0,0,Wet Season,0,125418
+2015,1,Netherlands,Cultural,Kandy,Homestay,7.0,1,24.0,0,Wet Season,0,182114
+2017,12,Italy,Leisure,Mirissa,Homestay,6.0,1,45.0,1,Wet Season,0,266313
+2019,12,Other,Cultural,Kandy,3-Star,9.0,4,18.0,0,Wet Season,0,217114
+2017,10,United Kingdm,Leisure,Galle,Hostel,5.0,1,22.0,0,Wet Season,0,147419
+2022,6,Other,Cultural,Sigiriya,Eco-Lodge,5.0,4,46.0,2,Dry Season,0,50727
+2017,2,Other,Cultural,Anuradhapura,Boutique,8.0,1,57.0,3,Wet Season,0,214161
+2018,2,India,Leisure,Mirissa,3-Star,8.0,2,44.0,0,Wet Season,0,246444
+2016,6,Maldives,Leisure,Galle,3-Star,6.0,2,44.0,0,Dry Season,0,139833
+2022,9,Other,Leisure,Bentota,Homestay,8.0,2,23.0,0,Dry Season,0,45800
+2017,4,Canada,Adventure,Nuwara Eliya,Boutique,13.0,2,60.0,0,Wet Season,0,155063
+2017,4,Other,Cultural,Anuradhapura,Eco-Lodge,5.0,1,31.0,0,Wet Season,0,165529
+2020,6,Maldives,Business,Colombo,5-Star,2.0,5,22.0,3,Dry Season,1,705
+2019,6,Japan,Eco-Tourism,Yala,Hostel,8.0,1,,3,Dry Season,0,65583
+2023,4,South Korea,Cultural,Polonnaruwa,Hostel,6.0,2,49.0,4,Wet Season,0,113275
+2016,9,Other,Adventure,Knuckles Range,4-Star,9.0,5,,0,Dry Season,0,131878
+2021,10,South Korea,Group Tour,Sigiriya,Budget Hotel,4.0,2,33.0,0,Wet Season,1,4761
+2019,2,Other,Leisure,Mirissa,4-Star,6.0,3,40.0,1,Wet Season,0,186501
+2017,8,India,Leisure,Galle,5-Star,12.0,4,44.0,0,Dry Season,0,169361
+2018,2,India,Business,Colombo,Hostel,4.0,1,27.0,1,Wet Season,0,223554
+2017,8,India,VFR,Colombo,Eco-Lodge,15.0,6,44.0,3,Dry Season,0,164392
+2018,7,Russia,Honeymoon,Bentota,Boutique,20.0,1,50.0,0,Dry Season,0,193463
+2018,4,United Kingdom,Leisure,Mirissa,4-Star,8.0,2,35.0,0,Wet Season,0,169629
+2023,7,USA,Cultural,Polonnaruwa,Eco-Lodge,8.0,4,40.0,0,Dry Season,0,120545
+2016,6,Germany,Eco-Tourism,Wilpattu,4-Star,10.0,1,18.0,2,Dry Season,0,135884
+2015,3,Netherlands,Eco-Tourism,Sinharaja,Boutique,13.0,1,53.0,0,Wet Season,0,161953
+2016,10,France,Eco-Tourism,Wilpattu,Hostel,7.0,2,48.0,2,Wet Season,0,130610
+2015,12,Other,Adventure,Knuckles Range,5-Star,9.0,1,31.0,0,Wet Season,0,197258
+2019,12,Netherlands,Eco-Tourism,Yala,Hostel,6.0,1,45.0,0,Wet Season,0,203358
+2019,1,Other,Cultural,Kandy,Boutique,4.0,1,38.0,3,Wet Season,0,198190
+2019,3,Maldives,Leisure,Colombo,Eco-Lodge,,1,45.0,0,Wet Season,0,181072
+2016,7,United Kingdom,Adventure,Nuwara Eliya,Budget Hotel,13.0,1,,0,Dry Season,0,175929
+2017,10,France,Leisure,Mirissa,Budget Hotel,9.0,1,19.0,4,Wet Season,0,143169
+2016,6,Other,Adventure,Nuwara Eliya,Boutique,7.0,1,48.0,3,Dry Season,0,143976
+2015,2,Other,Cultural,Polonnaruwa,Homestay,,1,32.0,0,Wet Season,0,170659
+2017,10,Russia,Beach,Bentota,4-Star,11.0,4,60.0,2,Wet Season,0,154147
+2019,11,Germany,Cultural,Kandy,5-Star,5.0,1,18.0,1,Wet Season,0,157115
+2018,12,Japan,Leisure,Colombo,Eco-Lodge,8.0,2,22.0,1,Wet Season,0,266002
+2016,6,Other,Cultural,Anuradhapura,Homestay,5.0,1,38.0,3,Dry Season,0,150767
+2017,8,India,Medical,Colombo,Homestay,26.0,2,37.0,0,Dry Season,0,176444
+2017,11,South Korea,Group Tour,Kandy,Homestay,7.0,2,45.0,0,Wet Season,0,173757
+2016,12,India,Business,Colombo,Eco-Lodge,5.0,2,,0,Wet Season,0,222695
+2015,3,United Kingdom,Honeymoon,Galle,Homestay,14.0,3,29.0,3,Wet Season,0,165110
+2023,8,Other,Leisure,Galle,Boutique,11.0,1,27.0,1,Dry Season,0,124592
+2015,3,Other,Leisure,Mirissa,5-Star,7.0,1,18.0,0,Wet Season,0,162260
+2022,11,Maldives,Transit,Colombo,5-Star,2.0,2,32.0,0,Wet Season,0,63780
+2018,8,India,Medical,Colombo,Hostel,25.0,3,48.0,0,Dry Season,0,177234
+2017,10,China,Shopping,Gampaha,4-Star,5.0,2,50.0,0,Wet Season,0,144098
+2015,5,Germany,Cultural,Kandy,4-Star,5.0,2,25.0,0,Dry Season,0,113467
+2023,2,Canada,Cultural,Anuradhapura,5-Star,8.0,1,49.0,1,Wet Season,0,142149
+2022,7,Maldives,Transit,Colombo,4-Star,2.0,2,18.0,1,Dry Season,0,63941
+2016,5,India,Business,Gampaha,5-Star,2.0,1,39.0,2,Dry Season,0,130303
+2015,8,Russia,Leisure,Mirissa,Hostel,9.0,3,39.0,0,Dry Season,0,136689
+2016,6,India,Leisure,Mirissa,3-Star,7.0,3,42.0,3,Dry Season,0,132669
+2023,5,Germany,Leisure,Colombo,5-Star,13.0,4,33.0,0,Dry Season,0,87100
+2018,3,Other,Cultural,Sigiriya,Eco-Lodge,5.0,1,29.0,0,Wet Season,0,215157
+2018,1,Russia,Beach,Mirissa,Boutique,4.0,2,42.0,0,Wet Season,0,222891
+2015,5,United Kingdom,Adventure,Ella,3-Star,15.0,4,64.0,1,Dry Season,0,111589
+2018,12,South Korea,Cultural,Polonnaruwa,4-Star,5.0,2,41.0,0,Wet Season,0,260835
+2022,5,USA,Business,Colombo,5-Star,4.0,2,29.0,1,Dry Season,0,45231
+2020,12,USA,Cultural,Sigiriya,4-Star,,4,34.0,0,Wet Season,1,9236
+2018,9,Other,Adventure,Ella,4-Star,9.0,5,33.0,0,Dry Season,0,156418
+2019,8,Russia,Honeymoon,Mirissa,3-Star,17.0,1,44.0,1,Dry Season,0,159538
+2019,3,United Kingdom,Cultural,Anuradhapura,5-Star,7.0,2,31.0,0,Wet Season,0,169608
+2016,10,India,Business,Colombo,Hostel,3.0,3,18.0,1,Wet Season,0,146671
+2016,4,Other,Adventure,Nuwara Eliya,3-Star,9.0,2,36.0,1,Wet Season,0,150861
+2022,10,India,Medical,Colombo,Budget Hotel,22.0,5,,0,Wet Season,0,53497
+2015,12,United Kingdom,Honeymoon,Nuwara Eliya,4-Star,20.0,3,29.0,0,Wet Season,0,213352
+2017,11,Canada,Adventure,Sigiriya,Boutique,16.0,1,34.0,0,Wet Season,0,186555
+2018,7,United Kingdom,Cultural,Sigiriya,Eco-Lodge,5.0,1,42.0,0,Dry Season,0,201422
+2017,2,India,Business,Colombo,Boutique,,5,28.0,0,Wet Season,0,210385
+2015,4,Other,Adventure,Nuwara Eliya,Boutique,7.0,2,48.0,3,Wet Season,0,119227
+2023,11,Germany,Eco-Tourism,Sinharaja,Budget Hotel,7.0,1,58.0,0,Wet Season,0,126588
+2018,2,Japan,Eco-Tourism,Yala,Homestay,6.0,2,55.0,1,Wet Season,0,228898
+2021,2,India,Medical,Colombo,5-Star,,2,52.0,0,Wet Season,1,919
+2016,12,USA,Business,Gampaha,Hostel,4.0,1,31.0,1,Wet Season,0,236103
+2015,8,India,Medical,Colombo,3-Star,6.0,2,56.0,0,Dry Season,0,131600
+2018,12,Germany,Eco-Tourism,Yala,Eco-Lodge,11.0,1,20.0,0,Wet Season,0,283729
+2018,2,United Kingdom,Cultural,Kandy,Eco-Lodge,,2,39.0,2,Wet Season,0,255832
+2016,11,India,Business,Gampaha,Homestay,5.0,2,54.0,2,Wet Season,0,184906
+2017,3,India,VFR,Gampaha,Hostel,16.0,1,19.0,1,Wet Season,0,200724
+2023,11,Other,Leisure,Mirissa,4-Star,9.0,4,28.0,0,Wet Season,0,116253
+2016,6,India,Medical,Colombo,Eco-Lodge,10.0,1,36.0,0,Dry Season,0,140973
+2016,1,Maldives,Transit,Colombo,Hostel,1.0,1,52.0,1,Wet Season,0,208903
+2016,6,Germany,Eco-Tourism,Yala,Hostel,9.0,2,27.0,0,Dry Season,0,149247
+2017,12,Other,Cultural,Kandy,Boutique,5.0,4,33.0,1,Wet Season,0,249312
+2017,3,Other,Leisure,Galle,Hostel,11.0,2,28.0,0,Wet Season,0,196764
+2017,2,United Kingdom,Cultural,Polonnaruwa,Eco-Lodge,5.0,2,45.0,0,Wet Season,0,206192
+2018,8,Australia,VFR,Kandy,Boutique,6.0,1,18.0,0,Dry Season,0,185930
+2018,6,Maldives,Transit,Colombo,Eco-Lodge,2.0,3,28.0,0,Dry Season,0,158424
+2019,3,France,Cultural,Kandy,Eco-Lodge,4.0,1,45.0,0,Wet Season,0,174834
+2016,4,Maldives,Transit,Colombo,Eco-Lodge,1.0,2,34.0,0,Wet Season,0,146377
+2016,1,India,Medical,Colombo,Eco-Lodge,19.0,2,35.0,0,Wet Season,0,215431
+2016,5,India,Business,Gampaha,Boutique,5.0,2,29.0,1,Dry Season,0,134299
+2022,5,India,Leisure,Mirissa,Eco-Lodge,6.0,3,48.0,0,Dry Season,0,44996
+2016,12,France,Cultural,Sigiriya,Boutique,7.0,2,28.0,1,Wet Season,0,234088
+2018,12,Maldives,Business,Colombo,3-Star,3.0,1,35.0,1,Wet Season,0,252962
+2023,7,Netherlands,Leisure,Colombo,Homestay,8.0,2,18.0,0,Dry Season,0,111812
+2015,1,United Kingdom,Cultural,Sigiriya,Hostel,4.0,1,22.0,2,Wet Season,0,197130
+2019,2,Other,Cultural,Kandy,3-Star,8.0,2,23.0,0,Wet Season,0,179665
+2015,4,France,Leisure,Colombo,4-Star,8.0,2,,1,Wet Season,0,136826
+2017,1,Japan,Leisure,Colombo,Hostel,5.0,2,19.0,1,Wet Season,0,232360
+2022,1,Other,Adventure,Nuwara Eliya,Hostel,8.0,2,29.0,2,Wet Season,0,77468
+2018,8,USA,Cultural,Sigiriya,Homestay,8.0,2,19.0,0,Dry Season,0,192920
+2017,8,Australia,VFR,Gampaha,3-Star,18.0,3,35.0,1,Dry Season,0,169828
+2015,4,India,VFR,Colombo,Budget Hotel,16.0,2,32.0,1,Wet Season,0,137990
+2016,5,Other,Cultural,Sigiriya,Hostel,9.0,1,35.0,0,Dry Season,0,142572
+2017,2,Japan,Leisure,Galle,Budget Hotel,6.0,2,36.0,0,Wet Season,0,209240
+2016,11,Other,Cultural,Sigiriya,4-Star,4.0,2,37.0,2,Wet Season,0,177724
+2017,11,Maldives,Business,Gampaha,Eco-Lodge,3.0,2,32.0,0,Wet Season,0,182997
+2021,8,Other,Cultural,Polonnaruwa,3-Star,5.0,3,39.0,1,Dry Season,1,2327
+2018,5,India,Business,Gampaha,3-Star,2.0,4,29.0,0,Dry Season,0,147070
+2018,1,China,Group Tour,Galle,Boutique,9.0,4,35.0,0,Wet Season,0,241128
+2019,5,Netherlands,Eco-Tourism,Yala,4-Star,8.0,1,32.0,0,Dry Season,1,43616
+2015,8,Other,Adventure,Knuckles Range,Homestay,16.0,2,33.0,0,Dry Season,0,139433
+2022,12,United Kingdom,Adventure,Nuwara Eliya,Boutique,14.0,1,51.0,0,Wet Season,0,81571
+2018,3,India,Business,Colombo,Boutique,2.0,2,29.0,1,Wet Season,0,214097
+2017,7,Other,Adventure,Sigiriya,Homestay,15.0,4,39.0,0,Dry Season,0,170367
+2017,8,Maldives,Transit,Colombo,3-Star,1.0,5,40.0,1,Dry Season,0,150934
+2016,5,Other,Cultural,Kandy,Boutique,9.0,1,,0,Dry Season,0,135607
+2015,12,USA,Leisure,Bentota,4-Star,10.0,3,31.0,1,Wet Season,0,206779
+2017,10,Germany,Cultural,Anuradhapura,4-Star,4.0,2,,0,Wet Season,0,162880
+2015,1,India,VFR,Gampaha,4-Star,14.0,2,45.0,2,Wet Season,0,176835
+2017,1,Other,Adventure,Knuckles Range,Homestay,7.0,2,62.0,1,Wet Season,0,232872
+2015,7,India,Leisure,Colombo,Hostel,12.0,1,50.0,1,Dry Season,0,148267
+2015,12,India,VFR,Colombo,Eco-Lodge,18.0,2,40.0,3,Wet Season,0,219207
+2019,8,Indai,Leisure,Galle,Eco-Lodge,9.0,6,36.0,1,Dry Season,0,152438
+2016,3,Other,Cultural,Polonnaruwa,Eco-Lodge,9.0,6,43.0,0,Wet Season,0,185794
+2019,9,Netherlands,Eco-Tourism,Knuckles Range,3-Star,5.0,5,,0,Dry Season,0,126885
+2022,1,India,Medical,Colombo,Eco-Lodge,26.0,1,44.0,2,Wet Season,0,83123
+2019,8,India,Medical,Colombo,5-Star,26.0,2,31.0,0,Dry Season,0,140338
+2016,1,Switzerland,Adventure,Knuckles Range,4-Star,14.0,1,,0,Wet Season,0,218230
+2022,8,India,Business,Gampaha,5-Star,3.0,1,18.0,0,Dry Season,0,52896
+2018,7,Japan,Eco-Tourism,Sinharaja,Boutique,6.0,1,37.0,0,Dry Season,0,180592
+2015,3,Other,Leisure,Colombo,5-Star,5.0,4,53.0,0,Wet Season,0,152388
+2019,7,Canada,Adventure,Ella,Homestay,11.0,3,34.0,2,Dry Season,0,159073
+2019,5,China,Leisure,Galle,3-Star,10.0,5,32.0,0,Dry Season,1,39676
+2022,4,Russia,Beach,Mirissa,Eco-Lodge,7.0,1,30.0,0,Wet Season,0,54389
+2017,5,Other,Cultural,Anuradhapura,Hostel,8.0,2,49.0,3,Dry Season,0,133835
+2015,7,United Kingdom,Honeymoon,Mirissa,Budget Hotel,10.0,4,36.0,3,Dry Season,0,139271
+2018,5,India,Medical,Colombo,3-Star,27.0,2,31.0,0,Dry Season,0,142814
+2016,7,Germany,Eco-Tourism,Wilpattu,Homestay,12.0,2,45.0,1,Dry Season,0,156463
+2023,1,France,Eco-Tourism,Knuckles Range,Eco-Lodge,11.0,3,24.0,1,Wet Season,0,158980
+2017,7,United Kingdom,Leisure,Galle,4-Star,13.0,6,51.0,1,Dry Season,0,178311
+2023,6,China,Group Tour,Colombo,4-Star,8.0,1,61.0,0,Dry Season,0,111367
+2017,2,Germany,Cultural,Polonnaruwa,Budget Hotel,8.0,3,67.0,0,Wet Season,0,216065
+2023,12,Germany,Adventure,Knuckles Range,Eco-Lodge,7.0,1,44.0,0,Wet Season,0,169858
+2016,12,Maldives,Business,Gampaha,3-Star,5.0,1,32.0,1,Wet Season,0,236341
+2015,9,Other,Leisure,Galle,4-Star,7.0,3,49.0,2,Dry Season,0,115848
+2017,1,Australia,Adventure,Sigiriya,4-Star,12.0,1,40.0,0,Wet Season,0,212900
+2020,6,India,Business,Colombo,4-Star,4.0,5,42.0,1,Dry Season,1,737
+2017,11,Other,Adventure,Sigiriya,4-Star,,3,25.0,0,Wet Season,0,170389
+2017,5,China,Shopping,Colombo,Eco-Lodge,5.0,4,51.0,0,Dry Season,0,129857
+2015,1,Other,Leisure,Galle,Homestay,8.0,1,56.0,0,Wet Season,0,190043
+2020,9,France,Leisure,Mirissa,3-Star,11.0,2,42.0,0,Dry Season,1,631
+2021,11,USA,Leisure,Bentota,Budget Hotel,8.0,3,53.0,1,Wet Season,0,8354
+2018,3,Switzerland,Eco-Tourism,Yala,Eco-Lodge,9.0,2,34.0,4,Wet Season,0,218537
+2017,7,Maldives,Leisure,Galle,4-Star,,6,42.0,0,Dry Season,0,166357
+2018,3,India,VFR,Gampaha,5-Star,6.0,3,34.0,0,Wet Season,0,209928
+2018,5,China,Group Tour,Galle,4-Star,,1,40.0,1,Dry Season,0,171747
+2017,5,Indai,Leisure,Colombo,Eco-Lodge,12.0,2,,0,Dry Season,0,138529
+2015,2,India,Business,Gampaha,Budget Hotel,5.0,3,,1,Wet Season,0,184782
+2019,2,France,Leisure,Galle,3-Star,5.0,2,31.0,0,Wet Season,0,186655
+2018,12,Other,Adventure,Ella,Homestay,7.0,1,26.0,0,Wet Season,0,268236
+2019,4,Other,Adventure,Ella,5-Star,13.0,1,56.0,1,Wet Season,1,35326
+2022,11,United Kingdom,Cultural,Anuradhapura,3-Star,6.0,6,37.0,3,Wet Season,0,58946
+2020,2,Other,Adventure,Sigiriya,3-Star,12.0,4,34.0,0,Wet Season,0,51429
+2015,3,Italy,Honeymoon,Mirissa,4-Star,14.0,2,49.0,4,Wet Season,0,154271
+2019,12,USA,Leisure,Colombo,Eco-Lodge,6.0,2,47.0,0,Wet Season,0,232481
+2020,7,India,VFR,Gampaha,Eco-Lodge,16.0,2,29.0,0,Dry Season,1,854
+2015,11,Other,Adventure,Nuwara Eliya,Hostel,,2,55.0,0,Wet Season,0,158942
+2018,9,India,VFR,Kandy,3-Star,6.0,2,26.0,1,Dry Season,0,156583
+2016,5,Italy,Leisure,Bentota,Homestay,11.0,1,39.0,0,Dry Season,0,138272
+2018,3,Russia,Honeymoon,Nuwara Eliya,4-Star,10.0,3,45.0,0,Wet Season,0,212981
+2019,10,India,Leisure,Mirissa,Homestay,5.0,1,38.0,0,Wet Season,0,141018
+2015,7,Germany,Adventure,Sigiriya,Budget Hotel,8.0,4,47.0,2,Dry Season,0,147743
+2015,3,Other,Cultural,Kandy,Homestay,6.0,3,35.0,0,Wet Season,0,171809
+2023,9,India,Medical,Colombo,Hostel,15.0,2,42.0,0,Dry Season,0,93107
+2023,11,Other,Leisure,Bentota,Budget Hotel,6.0,1,27.0,0,Wet Season,0,117150
+2023,10,Canada,Cultural,Anuradhapura,4-Star,7.0,2,33.0,1,Wet Season,0,102983
+2016,8,Germany,Leisure,Colombo,3-Star,13.0,2,71.0,3,Dry Season,0,159198
+2015,9,Maldives,Transit,Colombo,Eco-Lodge,1.0,4,37.0,0,Dry Season,0,125162
+2018,1,France,Cultural,Sigiriya,5-Star,9.0,1,26.0,0,Wet Season,0,252760
+2015,9,India,Leisure,Colombo,Budget Hotel,8.0,1,36.0,3,Dry Season,0,117605
+2019,11,India,Medical,Colombo,4-Star,18.0,2,28.0,1,Wet Season,0,162649
+2018,2,India,VFR,Gampaha,Budget Hotel,15.0,3,19.0,1,Wet Season,0,230224
+2017,9,Japan,Cultural,Polonnaruwa,5-Star,8.0,2,37.0,0,Dry Season,0,143501
+2021,1,Other,Leisure,Mirissa,Homestay,13.0,1,45.0,0,Wet Season,1,984
+2015,12,India,Leisure,Galle,Homestay,10.0,2,19.0,1,Wet Season,0,236113
+2015,5,Switzerland,Leisure,Galle,Budget Hotel,11.0,6,37.0,0,Dry Season,0,106365
+2019,2,Canada,Cultural,Anuradhapura,Homestay,5.0,3,33.0,2,Wet Season,0,192458
+2017,2,Other,Cultural,Anuradhapura,5-Star,9.0,1,50.0,1,Wet Season,0,212867
+2015,9,India,Leisure,Mirissa,Homestay,9.0,1,40.0,0,Dry Season,0,117161
+2019,2,Other,Cultural,Kandy,4-Star,5.0,2,29.0,0,Wet Season,0,177897
+2019,6,India,VFR,Gampaha,Hostel,8.0,1,28.0,1,Dry Season,0,65786
+2017,10,Other,Cultural,Kandy,5-Star,9.0,5,18.0,1,Wet Season,0,143013
+2018,11,India,Business,Gampaha,3-Star,5.0,3,44.0,0,Wet Season,0,189836
+2016,7,Other,Leisure,Mirissa,Budget Hotel,11.0,3,25.0,2,Dry Season,0,175375
+2019,8,Japan,Cultural,Sigiriya,Boutique,4.0,1,35.0,0,Dry Season,0,169248
+2017,6,Other,Cultural,Kandy,5-Star,9.0,1,26.0,0,Dry Season,0,141064
+2019,8,Canada,Adventure,Sigiriya,Hostel,11.0,2,18.0,1,Dry Season,0,148057
+2019,1,Australia,Adventure,Sigiriya,Budget Hotel,12.0,2,50.0,0,Wet Season,0,210940
+2017,7,Other,Adventure,Nuwara Eliya,5-Star,17.0,3,41.0,0,Dry Season,0,168150
+2016,6,India,Medical,Colombo,3-Star,25.0,6,36.0,0,Dry Season,0,139284
+2015,5,Germany,Cultural,Anuradhapura,Hostel,5.0,3,27.0,0,Dry Season,0,116846
+2016,2,Russia,Beach,Hikkaduwa,Homestay,4.0,1,,1,Wet Season,0,213319
+2019,5,United Kingdom,Honeymoon,Nuwara Eliya,Boutique,12.0,2,23.0,0,Dry Season,1,41931
+2019,7,India,Business,Gampaha,Hostel,,2,,0,Dry Season,0,152433
+2016,10,USA,Business,Colombo,5-Star,4.0,4,32.0,0,Wet Season,0,146456
+2017,1,India,Leisure,Bentota,5-Star,5.0,2,36.0,1,Wet Season,0,217698
+2017,12,Other,Leisure,Colombo,Homestay,,3,21.0,1,Wet Season,0,223876
+2023,8,Russia,Leisure,Mirissa,Hostel,12.0,1,46.0,3,Dry Season,0,117414
+2015,3,Switzerland,Eco-Tourism,Knuckles Range,Hostel,5.0,2,18.0,0,Wet Season,0,159863
+2016,1,Other,Leisure,Bentota,5-Star,5.0,4,46.0,1,Wet Season,0,215843
+2018,8,Russia,Honeymoon,Nuwara Eliya,5-Star,16.0,2,43.0,0,Dry Season,0,189742
+2015,4,Other,Leisure,Bentota,Homestay,6.0,1,44.0,0,Wet Season,0,137957
+2016,2,United Kingdom,Cultural,Anuradhapura,Eco-Lodge,5.0,2,45.0,0,Wet Season,0,201897
+2023,4,USA,Business,Gampaha,Hostel,5.0,1,49.0,0,Wet Season,0,116103
+2019,12,Germany,Eco-Tourism,Yala,Hostel,5.0,2,22.0,1,Wet Season,0,221930
+2019,4,United Kingdom,Cultural,Anuradhapura,3-Star,6.0,1,33.0,0,Wet Season,1,36786
+2019,2,China,Leisure,Colombo,3-Star,,2,29.0,0,Wet Season,0,200988

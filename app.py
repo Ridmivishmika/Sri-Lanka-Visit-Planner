@@ -303,6 +303,10 @@ if go:
     st.success(f"☀️ **Best Season** → **Dry Season** (December – March for most coasts)")
 
     # ── Trend mini-chart ───────────────────────────────────────────────────────
+    
+    st.info("💡 Get an idea about your country's travel patterns to Sri Lanka and plan your visit at the perfect time!")
+
+
     st.markdown(f"<div class='section-head'>📈 Monthly Arrival Trend — {country}</div>",
                 unsafe_allow_html=True)
     cdata = raw_df[raw_df["Country_of_Origin"] == country]
@@ -316,6 +320,7 @@ if go:
         ax.axhline(mdata.mean(), color="#EA4335", linestyle="--", linewidth=1.2,
                    label=f"Avg: {mdata.mean():,.0f}")
         ax.set_ylabel("Avg Arrivals", fontsize=9)
+
         ax.set_title(f"When do tourists from {country} visit Sri Lanka?", fontsize=10, fontweight="bold")
         ax.legend(fontsize=8); ax.grid(axis="y", alpha=0.2)
         plt.xticks(fontsize=8); plt.tight_layout()
