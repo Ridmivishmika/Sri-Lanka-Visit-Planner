@@ -9,13 +9,13 @@ A machine learning project that predicts monthly tourist arrivals to Sri Lanka a
 ```
 ML Assigmnt/
 │
-├── generate_data.py      # Synthetic Sri Lanka tourism dataset generator
+├── generate_data.py      # Sri Lanka tourism dataset 
 ├── preprocess.py         # Data cleaning, typo fixing, encoding & imputation
 ├── train_model.py        # LightGBM model training, tuning, evaluation & SHAP
-├── app.py                # Streamlit web application (Visit Planner UI)
+├── app.py                # Streamlit web application 
 │
 ├── data/
-│   ├── sl_tourism_raw.csv        # Raw synthetic dataset (output of generate_data.py)
+│   ├── sl_tourism_raw.csv        # Dataset (output of generate_data.py)
 │   ├── sl_tourism_clean.csv      # Cleaned & encoded dataset (output of preprocess.py)
 │   ├── label_encoders.pkl        # Saved LabelEncoders for categorical columns
 │   └── lgbm_model.pkl            # Trained LightGBM model + metrics
@@ -164,7 +164,4 @@ The dataset is **synthetically generated** to simulate realistic Sri Lanka touri
 
 ---
 
-## 👤 Author
 
-**Student ID:** 214007X  
-**Module:** Machine Learning (Semester 7)
