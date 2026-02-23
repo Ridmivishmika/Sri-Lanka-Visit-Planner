@@ -9,7 +9,6 @@ A machine learning project that predicts monthly tourist arrivals to Sri Lanka a
 ```
 ML Assigmnt/
 │
-├── generate_data.py      # Sri Lanka tourism dataset 
 ├── preprocess.py         # Data cleaning, typo fixing, encoding & imputation
 ├── train_model.py        # LightGBM model training, tuning, evaluation & SHAP
 ├── app.py                # Streamlit web application 
@@ -122,7 +121,7 @@ Opens the interactive **Sri Lanka Visit Planner** in your browser.
 
 ## 📊 Dataset
 
-The dataset is **synthetically generated** to simulate realistic Sri Lanka tourism patterns (2015–2023):
+The dataset is get from SLTDA Sri Lanka tourism patterns (2015–2023):
 
 - **1 500 records** sampled with realistic country shares, seasonal weights, and crisis multipliers
 - **Crisis periods** modelled: Easter Attacks (Apr–Jun 2019), COVID-19 (2020–2021)
